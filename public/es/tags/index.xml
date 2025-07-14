@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hengli | Energy</title>
+    <link>http://localhost:1313/es/tags/</link>
+    <description>Recent content in Tags on Hengli | Energy</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energía Nueva</title>
+      <link>http://localhost:1313/es/tags/energ%C3%ADa-nueva/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/energ%C3%ADa-nueva/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transporte Logístico</title>
+      <link>http://localhost:1313/es/tags/transporte-log%C3%ADstico/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/transporte-log%C3%ADstico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mercado</title>
+      <link>http://localhost:1313/es/tags/mercado/</link>
+      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/mercado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Negocios Corporativos</title>
+      <link>http://localhost:1313/es/tags/negocios-corporativos/</link>
+      <pubDate>Sun, 24 Sep 2023 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/negocios-corporativos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>I&#43;D</title>
+      <link>http://localhost:1313/es/tags/i&#43;d/</link>
+      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/i&#43;d/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
