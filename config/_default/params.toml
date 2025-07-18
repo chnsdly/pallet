@@ -37,13 +37,13 @@ recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 [contact.form]
 enable = true
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
-use_netlify = true
+use_netlify = false
 # Whether to use recaptch v3 in form
 use_recaptcha = false
 # Form action
 ## Fill in your Form ID URL for Formspree.io, e.g. `https://formspree.io/f/{form_id}`
 ## Ignored if `use_netlify = true` (custom [success page](https://docs.netlify.com/forms/setup/#success-messages) is already included) 
-action = "#"
+action = "https://getform.io/f/avryjoda"
 # Image on custom success page `/message_sent.html`
 success_image = "images/paper-plane.svg"
 
@@ -95,6 +95,12 @@ gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
+
+[leaflet]
+enable = true
+latitude = "35.101525"
+longitude = "118.348651"
+address = "Xincheng Technology Tower"
 
 # cookies
 [cookies]

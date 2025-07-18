@@ -45,36 +45,62 @@
       </form>
     </div>
     {{- end }}{{ end }}
-    <div class="contact-box row">
-      {{ with site.Params.contact -}}
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>{{ i18n "address_title" }}</h2>
-          <ul class="address-block">
-            {{ $add_address_descriptors := .address_descriptors }}
-            {{ with site.Params.location }}<li><i class="fas fa-map-marker-alt"></i>{{ if $add_address_descriptors }}{{ i18n "location" | printf "%s: " }}{{ end }}<div>{{ . | markdownify }}</div></li>{{ end }}
-            {{ with site.Params.email }}<li><i class="fas fa-envelope"></i>{{ if $add_address_descriptors }}{{ i18n "email" | printf "%s: " }}{{ end }}{{ partial "cloak_email" . }}</li>{{ end }}
-            {{ with site.Params.phone }}<li><i class="fas fa-tty"></i>{{ if $add_address_descriptors }}{{ i18n "phone" | printf "%s: " }}{{ end }}{{ . }}</li>{{ end }}
-          </ul>
-          <ul class="social-icons">
-            {{ range .Site.Params.social }}
-            <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-            {{ end }}
-          </ul>
-        </div>
+    
+  </div>
+</section>
+
+
+<section class="contact-overview">
+  <div class="container">
+    <div class="contact-overview__inner">
+      
+      <!-- 地址模块 -->
+      {{ with site.Params.contact }}
+      <div class="contact-overview__block contact-overview__block--info">
+        <h2>{{ i18n "address_title" }}</h2>
+        <ul class="address-list">
+          {{ with site.Params.location }}
+          <li><i class="fas fa-map-marker-alt"></i><span>{{ . | markdownify }}</span></li>
+          {{ end }}
+          {{ with site.Params.email }}
+          <li><i class="fas fa-envelope"></i><span>{{ partial "cloak_email" . }}</span></li>
+          {{ end }}
+          {{ with site.Params.phone }}
+          <li><i class="fas fa-phone-alt"></i><span>{{ . }}</span></li>
+          {{ end }}
+        </ul>
       </div>
-      {{- end }}
-      {{ if site.Params.gmap.enable -}}
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <div class="google-map">
-            <div class="map" id="map" data-latitude="{{ site.Params.gmap.map_latitude }}" data-longitude="{{ site.Params.gmap.map_longitude }}" data-marker="{{ site.Params.gmap.map_marker | relURL }}" data-marker-name="{{ site.Title }}"></div>
+      {{ end }}
+
+      <!-- 社交模块 -->
+      <div class="contact-overview__block contact-overview__block--social">
+        <h2>{{ i18n "social_title" | default "关注我们" }}</h2>
+        <div class="contact-social contact-social--compact">
+          <!-- 遍历 params.social 列表 -->
+          {{ range .Site.Params.social }}
+          <a href="{{ .link | safeURL }}" target="_blank" rel="noopener" title="{{ .title }}">
+            <i class="{{ .icon }}"></i>
+          </a>
+          {{ end }}
+          <!-- WhatsApp -->
+          <a href="https://wa.me/8613792998878?text=您好，我想咨询一下" target="_blank" rel="noopener" title="WhatsApp">
+            <i class="fab fa-whatsapp"></i>
+          </a>
+          <!-- 微信二维码 -->
+          <div class="wechat-qr">
+            <img src="/images/wechat-qr.png" alt="扫码加微信">
           </div>
         </div>
       </div>
-      {{- end }}
+
     </div>
   </div>
 </section>
 
-{{ end }}
+{{ partial "leaflet-map.html" (dict
+  "latitude" "35.015956"
+  "longitude" "118.400828"
+  "address" "Xincheng Technology Tower"
+) }}
+
+{{end}}

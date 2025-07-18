@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*=== MEDIA QUERY ===*/
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:300,400,500,600);
@@ -2196,3 +2197,74 @@ header .navbar-default .navbar-nav li a:hover {
             color: #000000; }
   .footer .copyright a {
     font-weight: 600; }
+
+/* 整体容器 */
+.contact-overview {
+  padding: 3rem 0;
+  background-color: #fafafa; }
+
+/* 两列并排，中间留空 */
+.contact-overview__inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between; }
+
+/* 每块统一卡片风格 */
+.contact-overview__block {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  flex: 1 1 300px;
+  /* 最小 300px，超过则等比扩展 */ }
+
+/* 地址列表 */
+.address-list {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0; }
+  .address-list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    font-size: 1.5rem; }
+    .address-list li i {
+      margin-right: 0.75rem;
+      color: #0077b5;
+      font-size: 1.25rem;
+      line-height: 1.25; }
+    .address-list li span {
+      line-height: 1.4; }
+
+/* 社交标题居中 */
+.contact-overview__block--social h2 {
+  text-align: center; }
+
+/* 社交图标区 */
+.contact-social--compact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 1.5rem; }
+
+/* 图标按钮 */
+.contact-social--compact a {
+  font-size: 2.5rem;
+  color: #444;
+  transition: transform 0.2s, color 0.2s; }
+
+.contact-social--compact a:hover {
+  transform: scale(1.2);
+  color: #1da1f2; }
+
+/* 微信二维码 */
+.wechat-qr {
+  width: 4rem; }
+
+.wechat-qr img {
+  width: 100%;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); }
