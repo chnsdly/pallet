@@ -1,8 +1,9 @@
 ---
-title: "蓝色-灰色卡板箱"
+title: "箱式托盘"
 image : "images/products/pallet.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["箱式托盘"]
+weight: 9
 type: "products"
 products:
   enable: true

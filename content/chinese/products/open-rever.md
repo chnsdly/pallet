@@ -1,8 +1,9 @@
 ---
-title: "双面托盘"
+title: "网格双面型托盘"
 image : "images/products/pallet.jpg"
 bg_image: "images/feature-bg.jpg"
-product_categories: ["网格托盘"]
+product_categories: ["网格双面型托盘"]
+weight: 4
 type: "products"
 products:
   enable: true

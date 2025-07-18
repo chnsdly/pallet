@@ -1,11 +1,10 @@
 ---
-title: "印刷托盘"
-bg_image: "images/feature-bg.jpg"
+title: "吹塑工艺托盘"
 image : "images/products/pallet.jpg"
-product_categories: ["印刷托盘"]
-draft: false
+bg_image: "images/feature-bg.jpg"
+product_categories: ["吹塑工艺托盘"]
+weight: 6
 type: "products"
-
 products:
   enable: true
   items:

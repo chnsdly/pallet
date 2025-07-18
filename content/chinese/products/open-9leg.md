@@ -1,8 +1,9 @@
 ---
-title: "九脚托盘"
+title: "网格九脚型托盘"
 image : "images/products/pallet.jpg"
 bg_image: "images/feature-bg.jpg"
-product_categories: ["网格托盘"]
+product_categories: ["网格九脚型托盘"]
+weight: 1
 type: "products"
 products:
   enable: true

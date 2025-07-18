@@ -8,80 +8,66 @@
     <language>en-US</language>
     <atom:link href="http://localhost:1313/chinese/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>九脚吹塑</title>
-      <link>http://localhost:1313/chinese/products/blow-9leg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chinese/products/blow-9leg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>九脚平板托盘</title>
-      <link>http://localhost:1313/chinese/products/solid-9leg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chinese/products/solid-9leg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>九脚托盘</title>
+      <title>网格九脚型托盘</title>
       <link>http://localhost:1313/chinese/products/open-9leg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/chinese/products/open-9leg/</guid>
       <description></description>
     </item>
     <item>
-      <title>印刷托盘</title>
-      <link>http://localhost:1313/chinese/products/8060/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chinese/products/8060/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>双面吹塑</title>
-      <link>http://localhost:1313/chinese/products/blow-rever/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chinese/products/blow-rever/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>双面托盘</title>
-      <link>http://localhost:1313/chinese/products/open-rever/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chinese/products/open-rever/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>川字平板托盘</title>
-      <link>http://localhost:1313/chinese/products/solid-triple/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chinese/products/solid-triple/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>川字托盘</title>
+      <title>网格川字型托盘</title>
       <link>http://localhost:1313/chinese/products/open-triple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/chinese/products/open-triple/</guid>
       <description></description>
     </item>
     <item>
-      <title>田字托盘</title>
+      <title>网格田字形托盘</title>
       <link>http://localhost:1313/chinese/products/open-grid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/chinese/products/open-grid/</guid>
       <description></description>
     </item>
     <item>
-      <title>蓝色-灰色卡板箱</title>
-      <link>http://localhost:1313/chinese/products/box/</link>
+      <title>网格双面型托盘</title>
+      <link>http://localhost:1313/chinese/products/open-rever/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chinese/products/box/</guid>
+      <guid>http://localhost:1313/chinese/products/open-rever/</guid>
       <description></description>
     </item>
     <item>
-      <title>防渗漏托盘</title>
+      <title>平板型托盘</title>
+      <link>http://localhost:1313/chinese/products/solid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chinese/products/solid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>吹塑工艺托盘</title>
+      <link>http://localhost:1313/chinese/products/blow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chinese/products/blow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>印刷机专用托盘</title>
+      <link>http://localhost:1313/chinese/products/print/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chinese/products/print/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>防渗漏托盘危化品托盘</title>
       <link>http://localhost:1313/chinese/products/leak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/chinese/products/leak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>箱式托盘</title>
+      <link>http://localhost:1313/chinese/products/box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chinese/products/box/</guid>
       <description></description>
     </item>
   </channel>

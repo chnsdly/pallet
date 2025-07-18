@@ -1,9 +1,12 @@
 ---
-title: "九脚平板托盘"
-image : "images/products/pallet.jpg"
+title: "印刷机专用托盘"
 bg_image: "images/feature-bg.jpg"
-product_categories: ["平板托盘"]
+image : "images/products/pallet.jpg"
+product_categories: ["印刷机专用托盘"]
+weight: 7
+draft: false
 type: "products"
+
 products:
   enable: true
   items:

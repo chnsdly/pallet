@@ -1,8 +1,9 @@
 ---
-title: "田字托盘"
+title: "网格田字形托盘"
 image : "images/products/pallet.jpg"
 bg_image: "images/feature-bg.jpg"
-product_categories: ["网格托盘"]
+product_categories: ["网格田字形托盘"]
+weight: 3
 type: "products"
 products:
   enable: true

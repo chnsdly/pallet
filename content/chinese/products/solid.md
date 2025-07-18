@@ -1,8 +1,9 @@
 ---
-title: "九脚吹塑"
+title: "平板型托盘"
 image : "images/products/pallet.jpg"
 bg_image: "images/feature-bg.jpg"
-product_categories: ["吹塑托盘"]
+product_categories: ["平板型托盘"]
+weight: 5
 type: "products"
 products:
   enable: true

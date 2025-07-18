@@ -1,8 +1,9 @@
 ---
-title: "防渗漏托盘"
+title: "防渗漏托盘危化品托盘"
 image : "images/products/pallet.jpg"
 bg_image: "images/feature-bg.jpg"
-product_categories: ["防渗漏托盘"]
+product_categories: ["防渗漏托盘危化品托盘"]
+weight: 8
 type: "products"
 products:
   enable: true
