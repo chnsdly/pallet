@@ -1316,6 +1316,8 @@
                 href="http://localhost:1313/product_categories/%E5%90%B9%E5%A1%91%E6%89%98%E7%9B%98/"
                 />
   </url><url>
+    <loc>http://localhost:1313/chinese/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/chinese/products/solid-triple/</loc>
   </url><url>
     <loc>http://localhost:1313/chinese/products/open-triple/</loc>
@@ -1331,8 +1333,6 @@
                 hreflang="en-US"
                 href="http://localhost:1313/product_categories/%E5%B9%B3%E6%9D%BF%E6%89%98%E7%9B%98/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/chinese/about/</loc>
   </url><url>
     <loc>http://localhost:1313/chinese/products/</loc>
   </url><url>

@@ -1,6 +1,6 @@
 ---
-title: "恒锂新能源科技（临沂）有限公司 "
-description: "专注动力电池技术研发，用安全、高效的产品，驱动绿色能源变革"
+title: "宝恒托盘"
+description: "托盘描述"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false

@@ -479,6 +479,23 @@
                 href="http://localhost:1313/zh/service/"
                 />
   </url><url>
+    <loc>http://localhost:1313/zh/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/about/"
+                />
+  </url><url>
     <loc>http://localhost:1313/zh/products/solid-triple/</loc>
   </url><url>
     <loc>http://localhost:1313/zh/products/open-triple/</loc>
@@ -508,23 +525,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/zh/products/leak/</loc>
-  </url><url>
-    <loc>http://localhost:1313/zh/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/about/"
-                />
   </url><url>
     <loc>http://localhost:1313/zh/products/blow-9leg/</loc>
   </url><url>
