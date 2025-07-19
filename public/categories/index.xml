@@ -6,27 +6,13 @@
     <description>Recent content in Categories on baoheng | pallet</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2022 11:07:10 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Customer Cases</title>
-      <link>http://localhost:1313/categories/customer-cases/</link>
-      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/customer-cases/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Market Activities</title>
-      <link>http://localhost:1313/categories/market-activities/</link>
-      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/market-activities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology Breakthrough</title>
-      <link>http://localhost:1313/categories/technology-breakthrough/</link>
+      <title>客户案例</title>
+      <link>http://localhost:1313/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/</link>
       <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/technology-breakthrough/</guid>
+      <guid>http://localhost:1313/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/</guid>
       <description></description>
     </item>
   </channel>

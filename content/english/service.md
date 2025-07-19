@@ -44,51 +44,42 @@ featured_service:
 
 
 ############################# Service ###############################
-
 service:
-  enable : true
-  title : "Our Advantages"
-  description : "Reliable lithium battery solutions powering every journey"
+  enable: true
+  title: "产品核心优势"
+  description: "专业塑料托盘制造技术，赋能高效物流作业"
   service_item:
-    # service item loop
-    - icon : fas fa-tachometer-alt
-      name: Grade A Battery Cells
-      content: "Powerful performance with rapid response"
+    - icon: fas fa-cubes
+      name: 高强材质
+      content: "全新HDPE/PP原料制造，抗冲击耐磨损"
 
-    # service item loop
-    - icon : fas fa-plug
-      name: Versatile Use
-      content: "Multiple voltage/capacity options"
+    - icon: fas fa-th
+      name: 科学结构
+      content: "加强筋网格设计，均衡承载分布"
 
-    # service item loop
-    - icon : fas fa-shield-alt
-      name: Safety Management
-      content: "Built-in intelligent BMS protection"
+    - icon: fas fa-snowflake
+      name: 耐候性强
+      content: "-30℃至80℃环境稳定使用，抗UV老化"
 
-    # service item loop
-    - icon : fas fa-battery-full
-      name: Long Service Life
-      content: "Stable cells with extended cycle durability"
+    - icon: fas fa-exchange-alt
+      name: 多场景适配
+      content: "标准化尺寸，兼容各类叉车设备"
 
-    # service item loop
-    - icon : fas fa-microchip
-      name: Smart Technology
-      content: "Real-time monitoring and remote diagnostics"
+    - icon: fas fa-calendar-check
+      name: 超长寿命
+      content: "抗腐蚀设计，使用寿命达8年以上"
 
-    # service item loop
-    - icon : fas fa-leaf
-      name: Eco-Efficiency
-      content: "Sustainable materials and processes reducing carbon footprint"
+    - icon: fas fa-recycle
+      name: 环保可回收
+      content: "100%可回收材料，符合绿色物流标准"
 
-    # service item loop
-    - icon : fas fa-feather-alt
-      name: Lightweight Engineering
-      content: "Optimized structural design reducing overall weight"
+    - icon: fas fa-ruler-combined
+      name: 灵活定制
+      content: "支持尺寸/颜色/载重个性化定制"
 
-    # service item loop
-    - icon : fas fa-headset
-      name: After-Sales Support
-      content: "24/7 customer service for prompt issue resolution"
+    - icon: fas fa-truck-loading
+      name: 快速交付
+      content: "规模化生产，保障及时供货"
 
 ############################# call to action #################################
 cta:

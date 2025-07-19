@@ -4,32 +4,42 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Hengli New Energy <br/> Globally Certified Power Battery Expert"
-  content: "Empowering Smart Society Development. We consistently deliver stable, efficient, and safe new energy technology, driving progress toward a sustainable future."
+  title: "做物流行业的永动基座  为世界搬运更多可能"
+  content: ""
   button:
     enable: true
-    label: "View Products"
+    label: "查看产品"
     link: "products/"
 
-############################# About #################################
+############################# home-products #################################
 products:
   enable: true
-  title: "Full-Scenario Power Solutions"
-  description: "We provide safe, reliable, and ultra-long-life LiFePO4 battery systems (60V/72V, 30-200Ah), meeting diverse global power and energy storage demands."
+  title: "多场景专用物流托盘"
+  description: "提供定制化高强度塑料托盘，满足各行业多元化搬运需求"
   items:
-    - title: "Urban Freight: Electric Trike/Light Truck Batteries"
-      content: "60V/72V (80-120Ah). Delivers robust power for widely used cargo tricycles and micro-trucks. Exceptional cycle life (>2500 cycles), resilient against frequent start-stop and heavy loads; High-temperature tolerance adapts to hot climates; Ensures safe and reliable operation on complex road conditions."
-      image: "images/company/changjing2.jpg"  
-    - title: "Light E-Mobility Upgrade: Two-Wheeler/Micro Vehicle Batteries"
-      content: "60V/72V (30-60Ah). The superior choice for e-bikes, scooters, golf carts, and mobility scooters. Increased energy density, fast-charging capability; Smart BMS ensures safety; Operates across a wide temperature range (-20°C to 50°C), ideal for daily commutes and leisure needs."
-      image: "images/company/changjing3.jpg"  # 示例：东南亚电动摩托、欧美高尔夫球车、共享电单车
-    - title: "Off-Grid & Backup Power: Small/Medium Solar Storage Systems"
-      content: "48V/60V (100-200Ah). The ideal solution for off-grid areas worldwide, telecom base stations, and home/small business backup power. Ultra-long lifespan (8-10 years) significantly reduces long-term costs; Thrives in high-heat environments (e.g., Africa, Middle East, Southeast Asia), delivering stable power assurance."
-      image: "images/company/changjing5.jpg"  # 示例：非洲屋顶太阳能+电池系统、通信基站机柜
-    - title: "Specialty Vehicles: Sweepers/Sightseeing Cars/Light AGVs"
-      content: "Custom Voltage (48V-72V), Capacity (50-150Ah). Provides clean power for professional specialty vehicles. High safety (passing nail penetration/crush tests) ensures public area operation; Maintenance-free design saves costs; High efficiency supports extended operation; Flexible design adapts to space constraints in specialty vehicles."
-      image: "images/company/changjing4.jpg"  # 示例：街道清扫车、景区电瓶车、物流仓库AGV
+    - title: "仓储货架专用"
+      content: "立体仓库专用设计，四面进叉适配各类叉车，防滑表面保障货物稳定，适应温湿度变化，持久耐用。"
+      image: "images/products/pallet.jpg" 
 
+    - title: "食品医药级"
+      content: "无缝隙一体成型结构，符合卫生安全标准，耐受高强度清洗消毒，抗菌材质确保洁净运输。"
+      image: "images/products/pallet.jpg" 
+
+    - title: "跨境物流保障"
+      content: "国际认证结构设计，防潮防蛀材质满足出口要求，专业边角防护确保长途运输安全。"
+      image: "images/products/pallet.jpg"
+
+    - title: "重型部件搬运"
+      content: "定制化加强结构，防静电处理保护精密部件，特殊凹槽设计固定不规则货物，耐油污易维护。"
+      image: "images/products/pallet.jpg"
+      
+    - title: "冷链环境专用"
+      content: "抗低温材质保持韧性，网格结构防积水结冰，底部防滑钉设计保障冷库作业安全。"
+      image: "images/products/pallet.jpg"
+      
+    - title: "化工防腐蚀型"
+      content: "高强度耐化学腐蚀材质，耐受各类酸碱环境，醒目安全配色提升作业识别度。"
+      image: "images/products/pallet.jpg"
 ######################### Portfolio ###############################
 portfolio:
   enable: false
@@ -57,67 +67,57 @@ service:
 ############################# Funfacts ###############################
 funfacts:
   enable: true
-  title: "About Hengli New Energy · Key Data"
-  description: "Since our founding in 2013, we have remained dedicated to power lithium battery R&D,<br>with products exported worldwide and multiple industry-leading performance metrics."
+  title: "宝恒托盘·全球制造实力"
+  description: "深耕塑料托盘制造领域，产品远销全球80余国<br>为国际供应链提供专业物流装备支持"
   funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-calendar-alt" 
-    name: "Years Established"
-    count: "12"
-
-  # funfacts item loop
-  - icon: "fas fa-microscope"
-    name: "Core Technology Patents"
-    count: "72"
-
-  # funfacts item loop
-  - icon: "fas fa-bolt" 
-    name: "Annual Capacity (GWh)"
-    count: "5"
-
-  # funfacts item loop
-  - icon: "fas fa-globe-americas" 
-    name: "Countries Served"
-    count: "38"
+    - icon: "fas fa-industry" 
+      name: "专业制造经验"
+      count: "15"
+      suffix: "年"
+      
+    - icon: "fas fa-globe-asia" 
+      name: "国际市场覆盖"
+      count: "80"
+      suffix: "+国家"
+      
+    - icon: "fas fa-pallet" 
+      name: "年产能（万）"
+      count: "280"
+      suffix: "万片"
+      
+    # 优化表述：更务实的客户指标
+    - icon: "fas fa-users" 
+      name: "国际客户"
+      count: "3000"
+      suffix: "+企业"
 
   testimonial_slider:
-  # testimonial item loop 东亚市场（中国）
-  - name: "Zhang Zhenguo"
-    image: "images/clients/avater-1.jpg"
-    designation: "Director of Electric Vehicle Procurement, Northern Logistics"
-    content: "We tested Hengli's 72V200Ah battery packs in Harbin's -30°C extreme cold. Zero failures over three consecutive winter peak delivery seasons. Maintained 85% discharge capacity in low temps, exceeded 4000 cycles, reducing fleet annual operating costs by 23%!"
+    # 亚洲案例（更聚焦实际应用）
+    - name: "田中健一"
+      image: "images/clients/asia_client.jpg"
+      designation: "日本通运物流经理"
+      content: "宝恒托盘三年服务东京-大阪物流干线。防滑设计保障精密仪器运输，货损率降低至0.2%，年节省包装成本2800万日元。"
+      
+    # 欧洲案例（突出标准认证）
+    - name: "Hans Müller"
+      image: "images/clients/europe_client.jpg"
+      designation: "德迅国际货运设施主管"
+      content: "托盘在汉堡港周转效率提升30%，耐-25℃低温不变脆。标准化尺寸无缝衔接欧洲物流系统，五年使用周期零更换。"
+      
+    # 非洲案例（强调环境适应性）
+    - name: "Kwame Nkrumah"
+      image: "images/clients/africa_client.jpg"
+      designation: "埃及亚历山大港运营总监"
+      content: "耐盐雾腐蚀托盘经受地中海气候考验，高强度结构承受港口重型机械作业。防滑钉设计解决潮湿码头移位问题，年损耗率从5%降至1.2%。"
 
-  # testimonial item loop 东南亚市场（泰国）
-  - name: "Somchai Wattana"
-    image: "images/clients/avater-2.jpg"
-    designation: "Technical Manager, Chiang Mai Agricultural Cooperative, Thailand"
-    content: "Hengli 60V120Ah batteries powering our pump systems have run flawlessly for 18 months in Bangkok's 90% humidity rainy season. IP67 protection effectively resists water ingress, smart BMS prevents overcharging, increasing rice irrigation efficiency by 40%."
-
-  # testimonial item loop 非洲市场（尼日利亚）
-  - name: "Amina Jafar"
-    image: "images/clients/avater-3.jpg"
-    designation: "Engineer, Lagos Off-Grid Community Solar Project"
-    content: "Hengli 48V200Ah ESS operated continuously for 2 years at 45°C on the Sahara's edge with only 8% degradation. Charges via solar panels by day, provides 6 hours of lighting nightly for 200 households, enabling uninterrupted medical refrigerator operation."
-
-  # testimonial item loop 欧美市场（德国）
-  - name: "Thomas Müller"
-    image: "images/clients/avater-3.jpg"
-    designation: "Facilities Director, Berlin Green Campus"
-    content: "20 campus electric sweepers use custom Hengli 72V150Ah batteries (CE/ROHS certified). 1.5-hour fast charge supports 8 hours of operation. Capacity remains >85% after 2000 cycles, helping us exceed carbon reduction targets by 35%."
-
-  # testimonial item loop 中东市场
-  - name: "Ahmed Khan"
-    image: "images/clients/avater-3.jpg"
-    designation: "Technical Director, Dubai Freight Company, UAE"
-    content: "500 electric cargo trikes equipped with Hengli batteries average 200km daily in 50°C desert conditions. Zero thermal runaway incidents over 3 years/100,000+ km. UN38.3 certification ensures cross-border compliance, with 67% lower failure rate vs competitors."
 ############################ call to action ###########################
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "Agents Wanted: Create Brilliance Together, Win-Win Partnership"
-  content: "Generous Profit Margins&nbsp;  |  &nbsp;Comprehensive Market Support&nbsp;  |  &nbsp;Professional Technical Services"
+  title: "诚邀合作：携手共赢，共创辉煌"
+  content: "丰厚利润空间&nbsp;  |  &nbsp;全方位市场支持&nbsp;  |  &nbsp;专业技术服务"
   button:
     enable: true
-    label: "Contact Us"
+    label: "联系我们"
     link: "contact/"
 ---

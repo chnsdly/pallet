@@ -384,11 +384,6 @@
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es-ES"
                 href="http://localhost:1313/es/blog/blog-post-2/"
                 />
@@ -412,11 +407,6 @@
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es-ES"
                 href="http://localhost:1313/es/blog/blog-post-3/"
                 />
@@ -438,11 +428,6 @@
   </url><url>
     <loc>http://localhost:1313/fr/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-4/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"

@@ -39,11 +39,6 @@
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/blog/blog-post-4/"
                 />
@@ -178,11 +173,6 @@
     <lastmod>2024-05-20T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/blog/blog-post-3/"
                 />
@@ -207,11 +197,6 @@
   </url><url>
     <loc>http://localhost:1313/es/blog/blog-post-2/</loc>
     <lastmod>2023-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-2/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -341,232 +326,42 @@
                 />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-7/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-7/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-9/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-9/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-9/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-11/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-11/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-11/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-12/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-12/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-12/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-14/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-14/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-14/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-16/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-16/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-16/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-18/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-18/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-18/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-1/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-3/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-5/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-8/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-8/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-10/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-10/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-10/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-13/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-13/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-13/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-15/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-15/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-15/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-17/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-17/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-17/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-19/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-19/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-19/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-2/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-4/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/products/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-6/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/author/</loc>
     <xhtml:link

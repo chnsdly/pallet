@@ -1,6 +1,6 @@
 ---
-title: "Hengli Moments · Power Frontier"
-description: "Capturing industry trends, we deliver timely updates on technological breakthroughs, market expansions, and partnership achievements, keeping you in sync with the energy revolution."
+title: "宝恒托盘"
+description: "捕捉行业风向，发布市场布局与合作成果。"
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---

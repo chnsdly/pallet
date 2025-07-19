@@ -1,39 +1,39 @@
 ---
-title: "Breakthrough in Core Technology R&D"
+title: "客户案例：清源饮品的托盘焕新记"
 date: 2022-09-08T11:07:10+06:00
-author: Wei Benlong
+author: 魏本龙
 image : "images/blog/news1.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Technology Breakthrough"]
-tags: ["R&D"]
-description: "Focusing on four key metrics - energy density, cycle life, safety performance, and fast-charging capability - we've comprehensively strengthened global competitiveness"
+categories: ["客户案例"]
+tags: ["食品"]
+description: ""
 draft: false
 type: "post"
 ---
-Amidst rapid battery technology evolution, our R&D center announces another exciting breakthrough. Leveraging strong independent R&D capabilities and forward-looking technology strategy, we've achieved significant advances in core material systems, battery structure design, and system integration. These innovations substantially enhance product performance and solidify our leadership in the power lithium battery sector. This milestone elevates our technological capabilities and powerfully supports the growing global demand for high-performance, safe, long-life lithium batteries.
+
+**清源饮品**——华东区知名饮料企业，日产数万瓶矿泉水和果汁。走进他们的车间：叉车在产线与仓库间穿梭不息，**日均15,000次托盘流转**是这里的常态。
+
+### 公司的托盘困境
 <!--more-->
-## Talent Foundation: Driving the Innovation Engine
+在改造前的车间里，这些场景每天都在发生：  
+- 叉车经过时，老旧木托盘簌簌洒落木屑，如同细密小雨。碎屑飘进灌装线触发传感器，整条产线立即停机——班组长看着停滞的传送带直拍大腿  
+- 设备清洗区常年水汽氤氲，浸透水分的木托盘沉如顽石，边角滋生着灰绿霉斑。每次GMP审核，质检员总在托盘区皱眉摇头  
+- "哗啦！"的刺耳声响令人心惊——又一批木托盘解体，上百瓶饮料轰然倾泻。维修间堆积如山的待修托盘，师傅们光钉钉子就忙不过来  
+- 叉车工老张揉着酸痛的肩膀："这泡水的木头托盘，搬一天就像扛了整天沙袋！"
 
-Our sustained breakthroughs stem from strategic investment in top-tier talent. We've assembled a high-caliber, specialized, interdisciplinary R&D team with deep expertise in electrochemistry, materials science, structural design, thermal management, and smart manufacturing, enabling powerful collaborative innovation.
+### 转机始于托盘升级
+清源最终全面启用 **宝恒食品级塑料托盘**：
+- 一体成型的表面光滑，高压水枪直冲即净  
+- 底部防滑纹，叉车急转时饮料瓶纹丝不动  
+- 在冷库里依然坚挺，1.6吨重压不见形变
 
-We prioritize talent development and motivation through robust IP protection systems and innovation-friendly mechanisms. This cultivates a "dare to explore, dare to break through" R&D culture that continuously fuels innovation.
+### 看得见的改变
+**新托盘进场三周后**：  
+1. 产线警报器彻底沉默——**木屑污染归零**，灌装主管笑言："终于甩掉'污染源'的帽子了"  
+2. 卫生员哼着歌冲洗托盘："现在就像洗车，霉菌污渍无处藏身"——上月飞检托盘区首次零扣分  
+3. 老张晃着轻松的手臂："塑料托盘轻了1/3，雨天也不吸水！你瞧，加班费都变少了"  
+4. 仓库李师傅的账本薄了一半——**托盘破损率从30%降至可忽略**，维修间腾出的空间堆上了新原料  
 
-## This Technological Leap Focuses on Four Core Performance Metrics:
-
-- **Energy Density Surge**:  
-  Through material innovation and process optimization, our new platform significantly increases energy density while maintaining high safety standards, delivering extended range for end applications.
-
-- **Cycle Life Breakthrough**:  
-  Advancements in material interface stability and structural design dramatically extend battery life under demanding conditions, effectively reducing total lifecycle costs.
-
-- **Comprehensive Safety Enhancement**:  
-  Multi-level upgrades to active safety and passive protection mechanisms create a more robust and reliable safety system.
-
-- **Fast-Charging Optimization**:  
-  Improved lithium-ion migration efficiency under extreme conditions enhances fast-charging capability and user experience.
-
-## Advancing Toward Global Technology Leadership
-
-This R&D milestone marks a crucial step in our journey to become a "technology-driven global leader." 
-
-It empowers upgrades to existing product lines, provides strong technical validation for entering premium markets and serving top global clients, and demonstrates our commitment to leading industry innovation.
+### 客户证言
+> "从前听见'托盘'就太阳穴直跳——污染罚款、工伤理赔、半夜抢险...全是麻烦。现在看着车间里水洗后亮晶晶的塑料托盘方阵，**最深的感触是省心：不用修、不用熏、更不用凌晨三点处理倒瓶事故**。这钱，花得踏实！"  
+> **——王海波 物流仓储经理**
