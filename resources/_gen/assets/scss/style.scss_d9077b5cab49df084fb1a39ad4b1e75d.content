@@ -2262,7 +2262,7 @@ header .navbar-default .navbar-nav li a:hover {
 
 /* 微信二维码 */
 .wechat-qr {
-  width: 4rem; }
+  width: 8rem; }
 
 .wechat-qr img {
   width: 100%;
