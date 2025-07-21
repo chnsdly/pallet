@@ -1,5 +1,6 @@
 ---
 title: "平板型托盘"
+description: "描述内容"
 image : "images/products/solid/main.jpg"
 bg_image: "images/print/feature-bg.jpg"
 product_categories: ["平板型托盘"]

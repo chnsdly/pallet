@@ -1,5 +1,6 @@
 ---
 title: "箱式托盘"
+description: "描述内容"
 image : "images/products/box/main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["箱式托盘"]

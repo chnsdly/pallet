@@ -1,5 +1,6 @@
 ---
 title: "网格双面型托盘"
+description: "描述内容"
 image : "images/products/open/Reversible-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["网格双面型托盘"]

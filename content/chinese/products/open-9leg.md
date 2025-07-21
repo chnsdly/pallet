@@ -1,5 +1,6 @@
 ---
 title: "网格九脚型托盘"
+description: "红黄绿蓝多颜色可定制"
 image : "images/products/open/9leg-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["网格九脚型托盘"]

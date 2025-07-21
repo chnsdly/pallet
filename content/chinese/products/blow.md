@@ -1,5 +1,6 @@
 ---
 title: "吹塑工艺托盘"
+description: "描述内容"
 image : "images/products/blow/main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["吹塑工艺托盘"]

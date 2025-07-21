@@ -8,91 +8,65 @@
   <div class="container">
     <div class="row">
       <div class="col-md-3">
-        {{ partial "product-sidebar.html" . }}
-      </div>
-      <div class="col-md-9">
-        {{ $paginator := .Paginate .Data.Pages -}}
-        <div class="row"> <!-- 添加行容器 -->
-          {{ range $paginator.Pages -}}
-          <div class="col-lg-4 col-md-6 mb-4"> <!-- 列容器，控制响应式列数 -->
-            <div class="post h-100" > <!-- 添加 h-100 确保高度一致 -->
-              <div class="post-media post-thumb">
-                {{ if isset .Params "image" -}}
-                <a href="{{ .RelPermalink }}">
-                  <!-- 添加 img-fluid 使图片响应式 -->
-                  <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid">
+        <aside class="sidebar">
+          <div class="row">
+            <!-- 标题 -->
+            <h4 class="widget-title mb-3">{{ i18n "product-categories" }}</h4>
+      
+            <!-- 分割线 -->
+            <hr class="sidebar-divider mb-4">
+      
+            <!-- 文章列表 -->
+            <ul class="widget-article-list list-unstyled">
+              {{ range $index, $page := .Data.Pages -}}
+              <li class="mb-2 pb-2 border-bottom border-dashed"> <!-- 添加虚线分割线 -->
+                <!-- 简化布局，序号和标题在同一行 -->
+                <a href="{{ .RelPermalink }}" class="d-flex align-items-center text-decoration-none article-link" {{ if eq
+                  .RelPermalink $.RelPermalink }}class="current" {{ end }}>
+                  <span class="serial-number me-2">{{ add $index 1 }}.</span>
+                  <span class="article-title">{{ .Title }}</span>
                 </a>
-                {{- end }}
-              </div>
-              <h3 class="post-title mt-3"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            </div>
+              </li>
+              {{- end }}
+            </ul>
+          </div>
+        </aside>
+      </div>
+<div class="col-md-9">
+  <div class="row">
+    {{ range .Data.Pages -}}
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="post h-100 rounded overflow-hidden shadow-sm border-0">
+        <!-- 图片容器 - 固定4:3比例 -->
+        <div class="post-media" style="padding-top: 75%; position: relative;">
+          {{ if isset .Params "image" -}}
+          <a href="{{ .RelPermalink }}" class="d-block h-100 w-100" style="position: absolute; top: 0; left: 0;">
+            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" 
+                 class="img-fluid h-100 w-100 product-image" style="object-fit: cover;">
+          </a>
+          {{- else }}
+          <div class="bg-light d-flex align-items-center justify-content-center h-100 w-100" 
+               style="position: absolute; top: 0; left: 0;">
+            <i class="fas fa-image fa-2x text-muted"></i>
           </div>
           {{- end }}
-        </div> <!-- 结束行容器 -->
-
-        <!-- pagination -->
-        {{ $paginator := .Paginator -}}
-        {{ $adjacent_links := 2 -}}
-        {{ $max_links := (add (mul $adjacent_links 2) 1) -}}
-        {{ $lower_limit := (add $adjacent_links 1) -}}
-        {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) -}}
-        {{ if gt $paginator.TotalPages 1 -}}
-        <nav class="text-center">
-          <ul class="pagination post-pagination">
-            <!-- Previous page. -->
-            {{ if $paginator.HasPrev -}}
-            <li>
-              <a href="{{ $paginator.Prev.URL }}" class="page-link">{{ i18n "page_prev" }}</a>
-            </li>
-            {{- end }}
-            <!-- Page numbers. -->
-            {{ range $paginator.Pagers -}}
-            {{ $page_number_flag := false -}}
-            <!-- Advanced page numbers. -->
-            {{ if gt $paginator.TotalPages $max_links -}}
-            <!-- Lower limit pages. -->
-            <!-- If the user is on a page which is in the lower limit.  -->
-            {{ if le $paginator.PageNumber $lower_limit -}}
-            <!-- If the current loop page is less than max_links. -->
-            {{ if le .PageNumber $max_links -}}
-            {{ $page_number_flag = true -}}
-            {{ end -}}
-            <!-- Upper limit pages. -->
-            <!-- If the user is on a page which is in the upper limit. -->
-            {{ else if ge $paginator.PageNumber $upper_limit -}}
-            <!-- If the current loop page is greater than total pages minus $max_links -->
-            {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) -}}
-            {{ $page_number_flag = true -}}
-            {{ end -}}
-            <!-- Middle pages. -->
-            {{ else -}}
-            {{ if and (ge .PageNumber (sub $paginator.PageNumber $adjacent_links)) (le .PageNumber (add $paginator.PageNumber $adjacent_links)) -}}
-            {{ $page_number_flag = true -}}
-            {{ end -}}
-            {{ end -}}
-            <!-- Simple page numbers. -->
-            {{ else -}}
-            {{ $page_number_flag = true -}}
-            {{ end -}}
-            <!-- Output page numbers. -->
-            {{ if eq $page_number_flag true -}}
-            <li class="{{ if eq . $paginator }} active {{ end }}">
-              <a href="{{ .URL }}">
-                {{ .PageNumber }}
-              </a>
-            </li>
-            {{- end }}
-            {{- end }}
-            <!-- Next page. -->
-            {{ if $paginator.HasNext -}}
-            <li>
-              <a href="{{ $paginator.Next.URL }}">{{ i18n "page_next" }}</a>
-            </li>
-            {{- end }}
-          </ul>
-        </nav>
-        {{- end }}
+        </div>
+        
+        <!-- 内容区域 - 固定两行显示 -->
+        <div class="p-1 bg-white">
+          <h3 class="post-title mb-2 line-clamp-1" style="margin-top: 1rem !important;">
+            <a href="{{ .RelPermalink }}" class="text-dark text-decoration-none">{{ .Title }}</a>
+          </h3>
+          
+          {{ if .Params.description }}
+          <p class="text-muted mb-0 line-clamp-1 small">{{ .Params.description | truncate 80 }}</p>
+          {{ end }}
+        </div>
       </div>
+    </div>
+    {{- end }}
+  </div>
+</div>
 
     </div>
   </div>
@@ -103,5 +77,116 @@
 {{ .Render "default" }}
 {{- end }}
 <!-- /regular page -->
+
+<style>
+  /* 卡片整体效果 */
+  .post {
+    transition: all 0.3s ease;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .post:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+  
+  /* 图片效果 */
+  .post-media {
+    overflow: hidden;
+    background: #f9f9f9;
+  }
+  
+  .product-image {
+    transition: all 0.4s ease;
+  }
+  
+  .post:hover .product-image {
+    transform: scale(1.05);
+  }
+  
+  /* 文字内容 */
+  .post-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    transition: color 0.2s ease;
+  }
+  
+  .post-title a:hover {
+    color: #0066cc !important;
+  }
+  
+  /* 行截断样式 */
+  .line-clamp-1 {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  /* 内容区域高度控制 */
+  .p-3 {
+    min-height: 90px; /* 确保有足够空间显示两行 */
+  }
+  
+  /* 响应式调整 */
+  @media (max-width: 768px) {
+    .post-title {
+      font-size: 1.05rem;
+    }
+    
+    .p-3 {
+      padding: 0.75rem !important;
+      min-height: 80px;
+    }
+  }
+</style>
+
+<style>
+  /* 分割线样式 */
+  .sidebar-divider {
+    border-top: 1px solid #e0e0e0;
+    margin: 0 0 1.5rem 0;
+  }
+  
+  /* 列表整体样式 */
+  .widget-article-list {
+    list-style: none;
+    padding-left: 0;
+    font-size: 1.5rem; /* 保持您设置的大字体 */
+  }
+  
+  /* 虚线分割线样式 */
+  .border-dashed {
+    border-bottom-style: dashed !important;
+    border-bottom-color: #ddd; /* 浅灰色虚线 */
+    border-bottom-width: 1px;
+    margin: 1.5rem 0 0 0;
+  }
+  
+  /* 序号样式 */
+  .serial-number {
+    font-weight: 500;
+    color: #333;
+    min-width: 20px;
+    display: inline-block;
+  }
+  
+  /* 标题样式 */
+  .article-title {
+    color: #333;
+    line-height: 1.5;
+    transition: all 0.2s ease;
+  }
+  
+  /* 悬停效果 */
+  .article-link:hover .article-title,
+  .article-link:hover .serial-number {
+    color: #007bff;
+  }
+</style>
 
 {{ end }}
