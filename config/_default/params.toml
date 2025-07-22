@@ -17,7 +17,8 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "(+86) 13792998878 17861616766（whatsapp、wechat）"
+phone = "(+86) 17861616766（whatsapp、wechat）"
+phone2 = "(+86) 13792998878（whatsapp、wechat）"
 email = "weibenlong6@gmail.com"
 location = """
 **Xincheng Technology Tower**  

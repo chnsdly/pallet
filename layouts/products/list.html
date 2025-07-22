@@ -11,7 +11,7 @@
         <aside class="sidebar">
           <div class="row">
             <!-- 标题 -->
-            <h4 class="widget-title mb-3">{{ i18n "product-categories" }}</h4>
+            <h4 class="widget-title mb-3 fw-bold">{{ i18n "product-categories" }}</h4>
       
             <!-- 分割线 -->
             <hr class="sidebar-divider mb-4">
@@ -78,115 +78,7 @@
 {{- end }}
 <!-- /regular page -->
 
-<style>
-  /* 卡片整体效果 */
-  .post {
-    transition: all 0.3s ease;
-    background: #fff;
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  }
-  
-  .post:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-  }
-  
-  /* 图片效果 */
-  .post-media {
-    overflow: hidden;
-    background: #f9f9f9;
-  }
-  
-  .product-image {
-    transition: all 0.4s ease;
-  }
-  
-  .post:hover .product-image {
-    transform: scale(1.05);
-  }
-  
-  /* 文字内容 */
-  .post-title {
-    font-size: 1.5rem;
-    font-weight: 600;
-    transition: color 0.2s ease;
-  }
-  
-  .post-title a:hover {
-    color: #0066cc !important;
-  }
-  
-  /* 行截断样式 */
-  .line-clamp-1 {
-    display: -webkit-box;
-    -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  
-  /* 内容区域高度控制 */
-  .p-3 {
-    min-height: 90px; /* 确保有足够空间显示两行 */
-  }
-  
-  /* 响应式调整 */
-  @media (max-width: 768px) {
-    .post-title {
-      font-size: 1.05rem;
-    }
-    
-    .p-3 {
-      padding: 0.75rem !important;
-      min-height: 80px;
-    }
-  }
-</style>
 
-<style>
-  /* 分割线样式 */
-  .sidebar-divider {
-    border-top: 1px solid #e0e0e0;
-    margin: 0 0 1.5rem 0;
-  }
-  
-  /* 列表整体样式 */
-  .widget-article-list {
-    list-style: none;
-    padding-left: 0;
-    font-size: 1.5rem; /* 保持您设置的大字体 */
-  }
-  
-  /* 虚线分割线样式 */
-  .border-dashed {
-    border-bottom-style: dashed !important;
-    border-bottom-color: #ddd; /* 浅灰色虚线 */
-    border-bottom-width: 1px;
-    margin: 1.5rem 0 0 0;
-  }
-  
-  /* 序号样式 */
-  .serial-number {
-    font-weight: 500;
-    color: #333;
-    min-width: 20px;
-    display: inline-block;
-  }
-  
-  /* 标题样式 */
-  .article-title {
-    color: #333;
-    line-height: 1.5;
-    transition: all 0.2s ease;
-  }
-  
-  /* 悬停效果 */
-  .article-link:hover .article-title,
-  .article-link:hover .serial-number {
-    color: #007bff;
-  }
-</style>
+
 
 {{ end }}

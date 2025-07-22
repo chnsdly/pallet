@@ -1,7 +1,7 @@
 ---
 title: "网格川字型托盘"
 description: "描述内容"
-image : "images/products/open/triple-main.jpg"
+image : "images/products/open-tri/triple-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["网格川字型托盘"]
 weight: 2
