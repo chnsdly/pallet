@@ -1,7 +1,7 @@
 ---
 title: "防渗漏托盘危化品托盘"
 description: "描述内容"
-image : "images/products/leakproof/main.jpg"
+image : "images/products/leakproof/lp-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["防渗漏托盘危化品托盘"]
 weight: 8
