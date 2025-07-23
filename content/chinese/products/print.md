@@ -1,6 +1,6 @@
 ---
 title: "印刷机专用托盘"
-description: "描述内容"
+description: "印刷机专用"
 bg_image: "images/feature-bg.jpg"
 image : "images/products/print/main.jpg"
 product_categories: ["印刷机专用托盘"]

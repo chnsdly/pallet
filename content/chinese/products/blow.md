@@ -1,6 +1,6 @@
 ---
 title: "吹塑工艺托盘"
-description: "描述内容"
+description: "一次吹塑成型，内有加强立柱，寿命长"
 image : "images/products/blow/blow-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["吹塑工艺托盘"]

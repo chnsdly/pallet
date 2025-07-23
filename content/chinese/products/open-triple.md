@@ -1,6 +1,6 @@
 ---
 title: "网格川字型托盘"
-description: "描述内容"
+description: "结构合理，稳定安全"
 image : "images/products/open-tri/triple-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["网格川字型托盘"]
