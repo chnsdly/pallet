@@ -634,17 +634,7 @@
                 href="http://localhost:1313/zh/product_categories/%E5%90%B9%E5%A1%91%E5%B7%A5%E8%89%BA%E6%89%98%E7%9B%98/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98%E5%8D%B1%E5%8C%96%E5%93%81%E6%89%98%E7%9B%98/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98%E5%8D%B1%E5%8C%96%E5%93%81%E6%89%98%E7%9B%98/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98%E5%8D%B1%E5%8C%96%E5%93%81%E6%89%98%E7%9B%98/"
-                />
+    <loc>http://localhost:1313/zh/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98/</loc>
   </url><url>
     <loc>http://localhost:1313/zh/contact/</loc>
     <xhtml:link
