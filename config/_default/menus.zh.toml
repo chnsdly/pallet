@@ -22,7 +22,7 @@ weight = 3
 # weight = 3
 
 [[main]]
-name = "新闻"
+name = "客户案例"
 url = "blog/"
 weight = 4
 
@@ -39,26 +39,22 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "产品"
-url = "products/"
-weight = 3
-
-[[footer]]
-name = "新闻"
+name = "客户案例"
 url = "blog/"
 weight = 4
+
 
 # [[footer]]
 # name = "价格"
 # url = "pricing/"
 # weight = 5
 
-# [[footer]]
-# name = "问答"
-# url = "faq/"
-# weight = 6
+[[footer]]
+name = "常见问题"
+url = "faq/"
+weight = 6
 
 [[footer]]
-name = "联系我们"
+name = "获取报价"
 url = "contact/"
 weight = 7

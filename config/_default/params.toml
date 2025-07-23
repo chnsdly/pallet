@@ -22,8 +22,7 @@ phone2 = "(+86) 13792998878（whatsapp、wechat）"
 email = "weibenlong6@gmail.com"
 location = """
 **Xincheng Technology Tower**  
-High-tech Development Zone  
-Linyi, Shandong Province<br>
+Linyi city, Shandong Province<br>
 China
 """
 # copyright
@@ -127,13 +126,12 @@ icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons
 link = "#"
 
 [[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
 
+[[social]]
+title = "WhatsApp"
+icon = "fab fa-whatsapp" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
 
