@@ -115,7 +115,7 @@ cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "诚邀合作：携手共赢，共创辉煌"
-  content: "丰厚利润空间&nbsp;  |  &nbsp;全方位市场支持&nbsp;  |  &nbsp;专业技术服务"
+  content: "告诉我们您的需求，我们将为您提供定制化的解决方案。"
   button:
     enable: true
     label: "联系我们"

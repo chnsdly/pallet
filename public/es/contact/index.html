@@ -539,8 +539,7 @@
         <ul class="address-list">
           
           <li><i class="fas fa-map-marker-alt"></i><span><strong>Xincheng Technology Tower</strong><br>
-High-tech Development Zone<br>
-Linyi, Shandong Province<br>
+Linyi city, Shandong Province<br>
 China</span></li>
           
           
@@ -583,14 +582,14 @@ China</span></li>
             <i class="fab fa-whatsapp"></i>
           </a>
           
-          <div class="wechat-qr">
-            <img src="/images/wechat-qr.png" alt="扫码加微信">
-            <p style="text-align: center;">WeChat</p>
-          </div>
-          <div class="wechat-qr">
-            <img src="/images/whatsapp.jpg" alt="WhatsApp">
-            <p style="text-align: center;">WhatsApp</p>
-          </div>
+            <div class="wechat-qr">
+              <img src="/images/wechat-qr.png" alt="扫码加微信">
+              <p style="text-align: center;">WeChat</p>
+            </div>
+            <div class="wechat-qr">
+              <img src="/images/whatsapp.jpg" alt="WhatsApp">
+              <p style="text-align: center;">WhatsApp</p>
+            </div>
         </div>
       </div>
 
@@ -657,10 +656,9 @@ document.addEventListener('DOMContentLoaded', () => {
     script.src = 'https://cdn.staticfile.org/leaflet/1.9.4/leaflet.js';
     script.onload = () => {
       
-      const latitude = mapElement.dataset.latitude || "35.101525";
-      const longitude = mapElement.dataset.longitude || "118.348651";
-      const address = mapElement.dataset.address || "1Xincheng Technology Tower";
-
+      const latitude = mapElement.dataset.latitude ;
+      const longitude = mapElement.dataset.longitude ;
+      const address = mapElement.dataset.address ;
       const map = L.map('map', {
         center: [parseFloat(latitude), parseFloat(longitude)],
         zoom: 15,
