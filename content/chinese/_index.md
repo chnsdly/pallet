@@ -14,6 +14,25 @@ banner:
 ############################# home-products #################################
 products:
   enable: true
+  title: "仓储物流全系托盘产品"
+  description: "从原料到产品，提供高强度、定制化PP塑料物流载具"
+  items:
+    - title: "全系列物流载具展示"
+      content: "包含标准/冷链/危化品专用托盘，适配多场景作业"
+      image: "images/img-1.jpg"
+
+    - title: "HDEP原料"
+      content: "采用聚丙烯颗粒，抗冲击强度高，无析出物污染风险。"
+      image: "images/img-3.jpg"
+
+    - title: "仓储实景应用"
+      content: "高位货架案例，多层立体存储，提升空间利用率。"
+      image: "images/img-4.jpg"
+
+
+############################# home-scenario #################################
+scenario:
+  enable: false
   title: "多场景专用物流托盘"
   description: "提供定制化高强度塑料托盘，满足各行业多元化搬运需求"
   items:
