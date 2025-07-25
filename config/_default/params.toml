@@ -100,7 +100,7 @@ map_marker = "images/marker.png"
 enable = true
 latitude = "35.095605"
 longitude = "118.24424"
-address = "Xianghe"
+address = "1Xianghe"
 
 # cookies
 [cookies]
@@ -118,12 +118,12 @@ sidebar = [ "taxonomy_category", "taxonomy_tags", "recent_posts"]
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.facebook.com/profile.php?id=61577021316542&mibextid=ZbWKwL"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://x.com/xinzhou1558615"
 
 [[social]]
 title = "linkedin"

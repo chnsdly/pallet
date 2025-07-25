@@ -3,9 +3,9 @@
     <div
       id="map"
       class="leaflet-map"
-      data-latitude="{{ .Params.latitude | default "35.015956" }}"
-      data-longitude="{{ .Params.longitude | default "118.400828" }}"
-      data-address="{{ .Params.address | default "Xincheng Technology Tower" | safeHTMLAttr }}"
+      data-latitude="{{ .Site.Params.leaflet.latitude | default "35.095605" }}"
+      data-longitude="{{ .Site.Params.leaflet.llongitude | default "118.24424" }}"
+      data-address="{{ .Site.Params.leaflet.laddress | default "linyi" | safeHTMLAttr }}"
     ></div>
   </div>
 </section>
