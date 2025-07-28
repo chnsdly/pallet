@@ -21,12 +21,36 @@ products:
       content: "包含标准/冷链/危化品专用托盘，适配多场景作业"
       image: "images/img-1.jpg"
 
-    - title: "HDEP原料"
+    - title: "HDPE原料+实景"
       content: "采用聚丙烯颗粒，抗冲击强度高，无析出物污染风险。"
       image: "images/img-3.jpg"
 
     - title: "仓储实景应用"
       content: "高位货架案例，多层立体存储，提升空间利用率。"
+      image: "images/img-4.jpg"
+    
+    - title: "仓库"
+      content: ""
+      image: "images/img-1.jpg"
+
+    - title: "仓库2"
+      content: ""
+      image: "images/img-3.jpg"
+
+    - title: "装柜"
+      content: ""
+      image: "images/img-4.jpg"
+    
+    - title: "生产"
+      content: "包含标准/冷链/危化品专用托盘，适配多场景作业"
+      image: "images/img-1.jpg"
+
+    - title: "展会"
+      content: ""
+      image: "images/img-3.jpg"
+
+    - title: ""
+      content: ""
       image: "images/img-4.jpg"
 
 
