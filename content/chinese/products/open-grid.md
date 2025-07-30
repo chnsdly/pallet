@@ -45,6 +45,10 @@ products:
       specs: "尺寸:130*110*14cm | 动载:1吨"
       image: "images/products/open-grid/grid-1311y.jpg" 
 
+    - name: "网格田字型-1311w"
+      specs: "尺寸:130*110*14cm | 动载:1吨"
+      image: "images/products/open-grid/grid-1311w.jpg" 
+
     - name: "网格田字型-1411"
       specs: "尺寸:140*110*14cm | 动载:1吨"
       image: "images/products/open-grid/grid-1411.jpg" 
