@@ -722,7 +722,7 @@ header .navbar-default .navbar-nav li a:hover {
 
 .service {
   text-align: center;
-  padding: 90px 0; }
+  padding: 0px 0; }
   @media (max-width: 768px) {
     .service {
       padding-top: 20px;
@@ -2271,14 +2271,14 @@ header .navbar-default .navbar-nav li a:hover {
 
 /*---------- 产品页内容部分样式 -----------*/
 /* 卡片整体效果 */
-.post {
+.productmain {
   transition: all 0.3s ease;
   background: #fff;
   display: flex;
   flex-direction: column;
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1); }
 
-.post:hover {
+.productmain:hover {
   transform: translateY(-3px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); }
 

@@ -590,38 +590,6 @@
                 href="http://localhost:1313/zh/service/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="http://localhost:1313/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/about/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh/product_categories/%E5%90%B9%E5%A1%91%E5%B7%A5%E8%89%BA%E6%89%98%E7%9B%98/</loc>
     <xhtml:link
                 rel="alternate"
@@ -688,6 +656,38 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/product_categories/%E5%B9%B3%E6%9D%BF%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh/products/</loc>

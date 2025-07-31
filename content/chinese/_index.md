@@ -15,43 +15,32 @@ banner:
 products:
   enable: true
   title: "仓储物流全系托盘产品"
-  description: "从原料到产品，提供高强度、定制化PP塑料物流载具"
+  description: "从原料到应用，提供高强度、定制化物流载具"
   items:
-    - title: "全系列物流载具展示"
-      content: "包含标准/冷链/危化品专用托盘，适配多场景作业"
+    - title: "全系列产品"
+      content: "涵盖平板、川字/田字、冷链与危化品等专用托盘。"
       image: "images/img-1.jpg"
 
-    - title: "HDPE原料+实景"
-      content: "采用聚丙烯颗粒，抗冲击强度高，无析出物污染风险。"
+    - title: "生产原料HDPE/PP"
+      content: "精选一级颗粒料，韧性高、耐低温，符合环保要求。"
       image: "images/img-3.jpg"
 
-    - title: "仓储实景应用"
-      content: "高位货架案例，多层立体存储，提升空间利用率。"
+    - title: "生产车间"
+      content: "24h注塑线 + 质量追溯系统，确保批次质量稳定可控。"
+      image: "images/img-5.jpg"
+
+    - title: "高位货架应用展示"
+      content: "托盘配合立体货架，堆码不变形，仓容利用率提升。"
       image: "images/img-4.jpg"
-    
-    - title: "仓库"
-      content: ""
-      image: "images/img-1.jpg"
 
-    - title: "仓库2"
-      content: ""
-      image: "images/img-3.jpg"
+    - title: "现货库存"
+      content: "6 000 ㎡ 存储中心，常备现货托盘。"
+      image: "images/img-2.jpg"
 
-    - title: "装柜"
-      content: ""
-      image: "images/img-4.jpg"
-    
-    - title: "生产"
-      content: "包含标准/冷链/危化品专用托盘，适配多场景作业"
-      image: "images/img-1.jpg"
+    - title: "快速装车发运"
+      content: "快速装箱，确保订单即刻启程。"
+      image: "images/img-6.jpg"
 
-    - title: "展会"
-      content: ""
-      image: "images/img-3.jpg"
-
-    - title: ""
-      content: ""
-      image: "images/img-4.jpg"
 
 
 ############################# home-scenario #################################
@@ -120,38 +109,38 @@ funfacts:
       
     - icon: "fas fa-globe-asia" 
       name: "国际市场覆盖"
-      count: "80"
+      count: "19"
       suffix: "+国家"
       
     - icon: "fas fa-pallet" 
       name: "年产能（万）"
-      count: "280"
+      count: "150"
       suffix: "万片"
       
     # 优化表述：更务实的客户指标
     - icon: "fas fa-users" 
       name: "国际客户"
-      count: "3000"
+      count: "200"
       suffix: "+企业"
 
   testimonial_slider:
     # 亚洲案例（更聚焦实际应用）
     - name: "田中健一"
-      image: "images/clients/asia_client.jpg"
+      image: "images/clients/avater-1.jpg"
       designation: "日本通运物流经理"
-      content: "宝恒托盘三年服务东京-大阪物流干线。防滑设计保障精密仪器运输，货损率降低至0.2%，年节省包装成本2800万日元。"
+      content: "宝恒的托盘陪我们跑东京到大阪差不多三年了。最明显的变化就是货滑动的事几乎没再发生——精密仪器的损坏率掉到 0.2% 左右，每年光包装和返工就省下两千多万日元，真心划算。"
       
     # 欧洲案例（突出标准认证）
     - name: "Hans Müller"
-      image: "images/clients/europe_client.jpg"
+      image: "images/clients/avater-2.jpg"
       designation: "德迅国际货运设施主管"
-      content: "托盘在汉堡港周转效率提升30%，耐-25℃低温不变脆。标准化尺寸无缝衔接欧洲物流系统，五年使用周期零更换。"
+      content: "我们把码头里的旧托盘全换成宝恒之后，周转效率提升了。冬天港口零下二十多度它也不变脆，尺寸还跟欧洲主流系统全兼容，五年下来一块都没报废，省了不少心。"
       
     # 非洲案例（强调环境适应性）
     - name: "Kwame Nkrumah"
-      image: "images/clients/africa_client.jpg"
+      image: "images/clients/avater-3.jpg"
       designation: "埃及亚历山大港运营总监"
-      content: "耐盐雾腐蚀托盘经受地中海气候考验，高强度结构承受港口重型机械作业。防滑钉设计解决潮湿码头移位问题，年损耗率从5%降至1.2%。"
+      content: "海风盐雾对设备挺狠的，可宝恒的耐腐蚀托盘扛住了。加了防滑钉以后，潮湿甲板也不跑位，重型机械压来压去都没问题，年损耗率从原来 5% 掉到 1.2%，效果确实不错。"
 
 ############################ call to action ###########################
 cta:

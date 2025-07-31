@@ -8,7 +8,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-3">
-        <aside class="sidebar">
+        <aside class="sidebar" style="margin: 0 15px 20px 15px;">
           <div class="row">
             <!-- 标题 -->
             <h4 class="widget-title mb-3 fw-bold">{{ i18n "product-categories" }}</h4>
@@ -36,7 +36,7 @@
   <div class="row">
     {{ range .Data.Pages -}}
     <div class="col-lg-4 col-md-6 mb-4">
-      <div class="post h-100 rounded overflow-hidden shadow-sm border-0">
+      <div class="productmain h-100 rounded overflow-hidden shadow-sm border-0">
         <!-- 图片容器 - 固定4:3比例 -->
         <div class="post-media" style="padding-top: 75%; position: relative;">
           {{ if isset .Params "image" -}}

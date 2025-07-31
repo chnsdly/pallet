@@ -1,6 +1,6 @@
 ---
-title: "宝恒托盘"
-description: "托盘描述"
+title: "山东宝恒塑料制品有限公司"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -14,7 +14,7 @@ about:
   content: |
     <br/>**成熟制造体系**
     <br/>
-    作为塑料托盘制造专家，我们拥有15年专业生产经验，配备全自动注塑生产线与现代化制造车间。通过规模化生产与精益管理，确保产品高一致性与稳定供应，年产能达280万片，满足全球客户需求。
+    作为塑料托盘制造专家，我们拥有15年专业生产经验，配备全自动注塑生产线与现代化制造车间。通过规模化生产与精益管理，确保产品高一致性与稳定供应，年产能达150万片，满足全球客户需求。
     <br/><br/>
     **严苛质量管控**
     <br/>
@@ -67,19 +67,19 @@ features:
 
     - icon: "fas fa-pallet"
       name: "年产能规模"
-      content: "280万片标准化托盘，满足全球订单需求"
+      content: "150万片标准化托盘，满足全球订单需求"
 
     - icon: "fas fa-cogs"
       name: "先进生产设备"
-      content: "50+台大型注塑设备，实现全流程自动化生产"
+      content: "10+台大型注塑设备，实现全流程自动化生产"
 
     - icon: "fas fa-certificate"
       name: "国际认证体系"
-      content: "通过ISO9001/EPAL认证，符合全球质量标准"
+      content: "通过ISO9001认证，符合全球质量标准"
 
     - icon: "fas fa-users"
       name: "全球客户基础"
-      content: "服务3000+企业客户，覆盖80余个国家地区"
+      content: "服务200+企业客户，覆盖19余个国家地区"
 
     - icon: "fas fa-clipboard-check"
       name: "严苛品控标准"
