@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>托盘产品页面 on baoheng | pallet</title>
-    <link>http://localhost:1313/products/</link>
+    <link>http://baohengpallet.com/products/</link>
     <description>Recent content in 托盘产品页面 on baoheng | pallet</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://baohengpallet.com/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>网格九脚型托盘</title>
-      <link>http://localhost:1313/products/open-9leg/</link>
+      <link>http://baohengpallet.com/products/open-9leg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/open-9leg/</guid>
+      <guid>http://baohengpallet.com/products/open-9leg/</guid>
       <description></description>
     </item>
     <item>
       <title>网格川字型托盘</title>
-      <link>http://localhost:1313/products/open-triple/</link>
+      <link>http://baohengpallet.com/products/open-triple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/open-triple/</guid>
+      <guid>http://baohengpallet.com/products/open-triple/</guid>
       <description></description>
     </item>
     <item>
       <title>网格田字型托盘</title>
-      <link>http://localhost:1313/products/open-grid/</link>
+      <link>http://baohengpallet.com/products/open-grid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/open-grid/</guid>
+      <guid>http://baohengpallet.com/products/open-grid/</guid>
       <description></description>
     </item>
     <item>
       <title>网格双面型托盘</title>
-      <link>http://localhost:1313/products/open-rever/</link>
+      <link>http://baohengpallet.com/products/open-rever/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/open-rever/</guid>
+      <guid>http://baohengpallet.com/products/open-rever/</guid>
       <description></description>
     </item>
     <item>
       <title>平板型托盘</title>
-      <link>http://localhost:1313/products/solid/</link>
+      <link>http://baohengpallet.com/products/solid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/solid/</guid>
+      <guid>http://baohengpallet.com/products/solid/</guid>
       <description></description>
     </item>
     <item>
       <title>吹塑工艺托盘</title>
-      <link>http://localhost:1313/products/blow/</link>
+      <link>http://baohengpallet.com/products/blow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/blow/</guid>
+      <guid>http://baohengpallet.com/products/blow/</guid>
       <description></description>
     </item>
     <item>
       <title>印刷机专用托盘</title>
-      <link>http://localhost:1313/products/print/</link>
+      <link>http://baohengpallet.com/products/print/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/print/</guid>
+      <guid>http://baohengpallet.com/products/print/</guid>
       <description></description>
     </item>
     <item>
       <title>防渗漏托盘危化品托盘</title>
-      <link>http://localhost:1313/products/leak/</link>
+      <link>http://baohengpallet.com/products/leak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/leak/</guid>
+      <guid>http://baohengpallet.com/products/leak/</guid>
       <description></description>
     </item>
     <item>
       <title>箱式托盘</title>
-      <link>http://localhost:1313/products/box/</link>
+      <link>http://baohengpallet.com/products/box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/box/</guid>
+      <guid>http://baohengpallet.com/products/box/</guid>
       <description></description>
     </item>
   </channel>

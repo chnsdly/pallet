@@ -100,7 +100,7 @@ service:
 funfacts:
   enable: true
   title: "宝恒托盘·全球制造实力"
-  description: "深耕塑料托盘制造领域，产品远销全球80余国<br>为国际供应链提供专业物流装备支持"
+  description: "深耕塑料托盘制造领域，产品远销全球20余国<br>为国际供应链提供专业物流装备支持"
   funfact_item:
     - icon: "fas fa-industry" 
       name: "专业制造经验"
@@ -109,7 +109,7 @@ funfacts:
       
     - icon: "fas fa-globe-asia" 
       name: "国际市场覆盖"
-      count: "19"
+      count: "20"
       suffix: "+国家"
       
     - icon: "fas fa-pallet" 
