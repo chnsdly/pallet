@@ -1,143 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Energía Extrema, Rendimiento Duradero on Baoheng | Pallet</title>
+    <title>Productos de Palés on Baoheng | Pallet</title>
     <link>http://localhost:1313/es/products/</link>
-    <description>Recent content in Energía Extrema, Rendimiento Duradero on Baoheng | Pallet</description>
+    <description>Recent content in Productos de Palés on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <atom:link href="http://localhost:1313/es/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>60V100Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-7/</link>
+      <title>Palé rejilla de 9 patas encajable</title>
+      <link>http://localhost:1313/es/products/open-9leg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-7/</guid>
+      <guid>http://localhost:1313/es/products/open-9leg/</guid>
       <description></description>
     </item>
     <item>
-      <title>60V120Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-9/</link>
+      <title>Palé rejilla de 3 patines longitudinales</title>
+      <link>http://localhost:1313/es/products/open-triple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-9/</guid>
+      <guid>http://localhost:1313/es/products/open-triple/</guid>
       <description></description>
     </item>
     <item>
-      <title>60V125Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-11/</link>
+      <title>Palé rejilla de base perimetral</title>
+      <link>http://localhost:1313/es/products/open-grid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-11/</guid>
+      <guid>http://localhost:1313/es/products/open-grid/</guid>
       <description></description>
     </item>
     <item>
-      <title>60V150Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-12/</link>
+      <title>Palé rejilla de doble cara reversible</title>
+      <link>http://localhost:1313/es/products/open-rever/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-12/</guid>
+      <guid>http://localhost:1313/es/products/open-rever/</guid>
       <description></description>
     </item>
     <item>
-      <title>60V160Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-14/</link>
+      <title>Palé cubierta lisa</title>
+      <link>http://localhost:1313/es/products/solid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-14/</guid>
+      <guid>http://localhost:1313/es/products/solid/</guid>
       <description></description>
     </item>
     <item>
-      <title>60V180Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-16/</link>
+      <title>Palés soplados</title>
+      <link>http://localhost:1313/es/products/blow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-16/</guid>
+      <guid>http://localhost:1313/es/products/blow/</guid>
       <description></description>
     </item>
     <item>
-      <title>60V200Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-18/</link>
+      <title>Palé dedicado para máquinas de impresión</title>
+      <link>http://localhost:1313/es/products/print/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-18/</guid>
+      <guid>http://localhost:1313/es/products/print/</guid>
       <description></description>
     </item>
     <item>
-      <title>60V30Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-1/</link>
+      <title>Palés de contención para materiales peligrosos</title>
+      <link>http://localhost:1313/es/products/leak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-1/</guid>
+      <guid>http://localhost:1313/es/products/leak/</guid>
       <description></description>
     </item>
     <item>
-      <title>60V60Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-3/</link>
+      <title>Palés tipo caja</title>
+      <link>http://localhost:1313/es/products/box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>60V80Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V100Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V120Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-10/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V150Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-13/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V160Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-15/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-15/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V180Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-17/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-17/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V200Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-19/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V30Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V60Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>72V80Ah</title>
-      <link>http://localhost:1313/es/products/rio-furniture-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/rio-furniture-6/</guid>
+      <guid>http://localhost:1313/es/products/box/</guid>
       <description></description>
     </item>
   </channel>

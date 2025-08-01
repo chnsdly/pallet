@@ -1,64 +1,83 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
-image : "images/blog/blog-post-1.jpg"
+title: "Kundenreferenz | Qingyuan Getränke × Baoheng Kunststoffpaletten"
+date: 2022-09-08T11:07:10+06:00
+author: Wei Benlong
+image : "images/blog/news1.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Company News"]
-tags: ["Advice","Technology"]
-description: "this is meta description"
+categories: ["Kundenreferenzen"]
+tags: ["Lebensmittel"]
+description: ""
 draft: false
 type: "post"
 ---
 
+**Qingyuan Getränke** – ein führender Getränkehersteller in Ostchina.  
+Ausstoß: mehrere zehntausend Flaschen pro Tag; über **15 000 Palettenumschläge** täglich.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+<!--more-->
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+## 1. Projekthintergrund
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+Qingyuan arbeitet im 24/7-Dauerbetrieb mit Hoch­umschlag-Lagerung. Mit wachsendem Auftragsvolumen verursachten veraltete Holzpaletten zunehmend Probleme bei Sicherheit, Hygiene und Kosten und gefährdeten Linienstabilität sowie GMP-Bewertung.
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+---
 
+## 2. Herausforderungen
 
-* hello
-* hello
-* hello
-* hello
-* hello
+**Verschmutzung durch Holzspäne**  
+Typisch: Holzsplitter gelangen in die Abfülllinie und lösen Stillstände aus.  
+Auswirkung: ungeplante Ausfallzeit > **4 h/Monat**.  
 
-1. hello
-2. hello
-3. hello
-4. hello
+**Feuchte & Schimmel**  
+Typisch: Paletten saugen Wasser auf, schimmeln, überschreiten Hygienelimits.  
+Auswirkung: wiederholte GMP-Abzüge; zusätzlicher Reinigungsaufwand.  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+**Strukturausfall**  
+Typisch: Bruch oder Verzug der Paletten → Kippen der Ladung.  
+Auswirkung: Ausschussrate ≈ 30 %, steigende Verluste/Schadensfälle.  
+
+**Manuelle Belastung**  
+Typisch: nasse Paletten werden schwerer, höherer Kraftaufwand.  
+Auswirkung: höheres Verletzungs- und Überstunden­risiko.  
+
+---
+
+## 3. Lösung
+
+**Umstieg auf lebensmittel­taugliche PP-Kunststoffpaletten von Baoheng**  
+Einteilige Spritzguss-Paletten, glatte, gratfreie Oberfläche, rutschfeste Gitterstruktur. FDA-PP erlaubt Hochdruck­reinigung und hält bei **-35 °C bis +60 °C** einer statischen Last von **1,6 t** stand.  
+
+**Kleine Layout-Anpassungen**  
+Stellplätze wurden auf das neue Format umgezeichnet, im Waschbereich Trockengestelle installiert.
+
+---
+
+## 4. Ergebnisse (innerhalb von 3 Wochen)
+
+**Holzspäne-Verschmutzung**  
+Vorher: 5–6 ungeplante Stopps/Woche.  
+Nachher: vollständig beseitigt; Stopps **0**.  
+
+**GMP-Abzüge**  
+Vorher: 2–3 Punkte pro Kontrolle.  
+Nachher: **0** Punkte.  
+
+**Palettenbruchrate**  
+Vorher: ≈ 30 %, hohe Reparaturkosten.  
+Nachher: **< 1 %**, kaum Kosten.  
+
+**Manuelle Belastung**  
+Vorher: hohe Beanspruchung; Risiko für Verletzungen/Überstunden.  
+Nachher: Kraftaufwand um **≈ 33 %** reduziert.  
+
+**Jährliche Gesamtersparnis**  
+Einsparung durch weniger Ausfälle, Ausschuss und Arbeit: **≈ ¥650 000 pro Jahr**.
+
+---
+
+## 5. Kundenstimme
+
+> „Früher verursachten Holzpaletten nur Ärger: Verunreinigungen, Nacht­einsätze, Schadens­abwicklungen …  
+> Jetzt sind die Kunststoffpaletten sauber und langlebig; die Dreischicht­linie läuft durch und wir sparen jährlich über 600 k ¥ an Reparatur und Ausschuss.  
+> **Das Wichtigste: Ruhe im Betrieb.**“  
+> **— Wang Haibo · Leiter Logistik & Lager, Qingyuan Getränke**

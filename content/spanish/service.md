@@ -5,92 +5,67 @@ bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
 
-########################### about service #############################
 about:
   enable : true
   title : "Creative UX/UI Design Agency"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta..."
   image : "images/company/company-group-pic.jpg"
 
-
-########################## featured service ############################
 featured_service:
   enable : true
   service_item:
-    # featured service item loop
     - name : "Interface Design"
       icon : "fas fa-flask"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Lorem ipsum dolor sit amet..."
 
-    # featured service item loop
     - name : "Product Branding"
       icon : "fas fa-leaf"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Lorem ipsum dolor sit amet..."
 
-    # featured service item loop
     - name : "Game Development"
       icon : "fas fa-lightbulb"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Lorem ipsum dolor sit amet..."
 
-
-############################# Service ###############################
 service:
-  enable : true
-  title : "Nuestras Ventajas"
-  description : "Soluciones confiables de baterías de litio para cada recorrido"
+  enable: true
+  title: "Ventajas clave del producto"
+  description: "Tecnología profesional de fabricación de palés plásticos que impulsa operaciones logísticas eficientes"
   service_item:
-    # service item loop
-    - icon : fas fa-tachometer-alt
-      name: Celdas Grado A
-      content: "Alto rendimiento con respuesta inmediata"
+    - icon: fas fa-cubes
+      name: Material de alta resistencia
+      content: "Fabricado con HDPE/PP virgen, resistente a impactos y desgaste"
 
-    # service item loop
-    - icon : fas fa-plug
-      name: Multi-Voltaje
-      content: "Múltiples configuraciones de voltaje y capacidad"
+    - icon: fas fa-th
+      name: Estructura optimizada
+      content: "Diseño de rejilla con nervaduras que distribuye la carga uniformemente"
 
-    # service item loop
-    - icon : fas fa-shield-alt
-      name: Gestión de Seguridad
-      content: "Protección con sistema BMS inteligente incorporado"
+    - icon: fas fa-snowflake
+      name: Alta resistencia climática
+      content: "Uso estable de –30 °C a 60 °C, resistente al envejecimiento UV"
 
-    # service item loop
-    - icon : fas fa-battery-full
-      name: Larga Vida Útil
-      content: "Celdas estables con durabilidad extendida"
+    - icon: fas fa-exchange-alt
+      name: Adaptación multisectorial
+      content: "Dimensiones estandarizadas, compatibles con todo tipo de montacargas"
 
-    # service item loop
-    - icon : fas fa-microchip
-      name: Tecnología Inteligente
-      content: "Monitoreo en tiempo real y diagnóstico remoto"
+    - icon: fas fa-calendar-check
+      name: Larga vida útil
+      content: "Diseño anticorrosión con más de 8 años de servicio"
 
-    # service item loop
-    - icon : fas fa-leaf
-      name: Ecoeficiencia
-      content: "Materiales y procesos sostenibles que reducen huella de carbono"
+    - icon: fas fa-recycle
+      name: Ecológico y reciclable
+      content: "Material 100 % reciclable, cumple con los estándares de logística verde"
 
-    # service item loop
-    - icon : fas fa-feather-alt
-      name: Diseño Liviano
-      content: "Estructura optimizada que reduce peso total"
+    - icon: fas fa-ruler-combined
+      name: Personalización flexible
+      content: "Personalización de tamaño, color y capacidad de carga"
 
-    # service item loop
-    - icon : fas fa-headset
-      name: Soporte Postventa
-      content: "Atención al cliente 24/7 para solución inmediata"
+    - icon: fas fa-truck-loading
+      name: Entrega rápida
+      content: "Producción a escala garantiza suministro puntual"
 
-############################# call to action #################################
 cta:
   enable : true
-  # call to action content comes from "_index.md"
 ---

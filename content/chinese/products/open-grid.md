@@ -32,6 +32,9 @@ products:
     - name: "网格田字型-1210"
       specs: "尺寸:120*100*15cm | 动载:1吨"
       image: "images/products/open-grid/grid-1210.jpg"  
+    - name: "网格田字型-1210a"
+      specs: "尺寸:120*100*15cm | 动载:1吨"
+      image: "images/products/open-grid/grid-1210a.jpg"  
 
     - name: "网格田字型-1212"
       specs: "尺寸:120*120*15cm | 动载:1吨"
@@ -52,6 +55,9 @@ products:
     - name: "网格田字型-1411"
       specs: "尺寸:140*110*15cm | 动载:1吨"
       image: "images/products/open-grid/grid-1411.jpg" 
+    - name: "网格田字型-1411a"
+      specs: "尺寸:140*110*15cm | 动载:1吨"
+      image: "images/products/open-grid/grid-1411a.jpg" 
 
     - name: "网格田字型-1412"
       specs: "尺寸:140*120*15cm | 动载:1.3吨"

@@ -5,6 +5,26 @@
     <loc>http://localhost:1313/products/open-9leg/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/open-9leg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/open-9leg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/open-9leg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/open-9leg/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/products/open-9leg/"
                 />
@@ -15,6 +35,26 @@
                 />
   </url><url>
     <loc>http://localhost:1313/products/open-triple/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/open-triple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/open-triple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/open-triple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/open-triple/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -29,6 +69,26 @@
     <loc>http://localhost:1313/products/open-grid/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/open-grid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/open-grid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/open-grid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/open-grid/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/products/open-grid/"
                 />
@@ -39,6 +99,26 @@
                 />
   </url><url>
     <loc>http://localhost:1313/products/open-rever/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/open-rever/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/open-rever/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/open-rever/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/open-rever/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -53,6 +133,26 @@
     <loc>http://localhost:1313/products/solid/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/solid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/solid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/solid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/solid/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/products/solid/"
                 />
@@ -63,6 +163,26 @@
                 />
   </url><url>
     <loc>http://localhost:1313/products/blow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/blow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/blow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/blow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/blow/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -77,6 +197,26 @@
     <loc>http://localhost:1313/products/print/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/print/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/print/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/print/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/print/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/products/print/"
                 />
@@ -89,6 +229,26 @@
     <loc>http://localhost:1313/products/leak/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/leak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/leak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/leak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/leak/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/products/leak/"
                 />
@@ -99,6 +259,26 @@
                 />
   </url><url>
     <loc>http://localhost:1313/products/box/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/box/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/box/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/box/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/box/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -114,13 +294,13 @@
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -213,13 +393,13 @@
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/blog/"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -246,6 +426,26 @@
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/"
                 />
@@ -259,13 +459,13 @@
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/blog-post-1/"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/blog/blog-post-1/"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -290,6 +490,26 @@
   </url><url>
     <loc>http://localhost:1313/tags/%E9%A3%9F%E5%93%81/</loc>
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/tags/%E9%A3%9F%E5%93%81/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/%E9%A3%9F%E5%93%81/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/tags/%E9%A3%9F%E5%93%81/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/tags/%E9%A3%9F%E5%93%81/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -593,6 +813,26 @@
     <loc>http://localhost:1313/product_categories/%E5%8D%B0%E5%88%B7%E6%9C%BA%E4%B8%93%E7%94%A8%E6%89%98%E7%9B%98/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E5%8D%B0%E5%88%B7%E6%9C%BA%E4%B8%93%E7%94%A8%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E5%8D%B0%E5%88%B7%E6%9C%BA%E4%B8%93%E7%94%A8%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E5%8D%B0%E5%88%B7%E6%9C%BA%E4%B8%93%E7%94%A8%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E5%8D%B0%E5%88%B7%E6%9C%BA%E4%B8%93%E7%94%A8%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/product_categories/%E5%8D%B0%E5%88%B7%E6%9C%BA%E4%B8%93%E7%94%A8%E6%89%98%E7%9B%98/"
                 />
@@ -603,6 +843,26 @@
                 />
   </url><url>
     <loc>http://localhost:1313/product_categories/%E5%90%B9%E5%A1%91%E5%B7%A5%E8%89%BA%E6%89%98%E7%9B%98/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E5%90%B9%E5%A1%91%E5%B7%A5%E8%89%BA%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E5%90%B9%E5%A1%91%E5%B7%A5%E8%89%BA%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E5%90%B9%E5%A1%91%E5%B7%A5%E8%89%BA%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E5%90%B9%E5%A1%91%E5%B7%A5%E8%89%BA%E6%89%98%E7%9B%98/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -649,6 +909,26 @@
     <loc>http://localhost:1313/product_categories/%E5%B9%B3%E6%9D%BF%E5%9E%8B%E6%89%98%E7%9B%98/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E5%B9%B3%E6%9D%BF%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E5%B9%B3%E6%9D%BF%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E5%B9%B3%E6%9D%BF%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E5%B9%B3%E6%9D%BF%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/product_categories/%E5%B9%B3%E6%9D%BF%E5%9E%8B%E6%89%98%E7%9B%98/"
                 />
@@ -661,8 +941,23 @@
     <loc>http://localhost:1313/products/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es-ES"
                 href="http://localhost:1313/es/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -678,6 +973,26 @@
     <loc>http://localhost:1313/product_categories/%E7%AE%B1%E5%BC%8F%E6%89%98%E7%9B%98/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E7%AE%B1%E5%BC%8F%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E7%AE%B1%E5%BC%8F%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E7%AE%B1%E5%BC%8F%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E7%AE%B1%E5%BC%8F%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/product_categories/%E7%AE%B1%E5%BC%8F%E6%89%98%E7%9B%98/"
                 />
@@ -688,6 +1003,26 @@
                 />
   </url><url>
     <loc>http://localhost:1313/product_categories/%E7%BD%91%E6%A0%BC%E4%B9%9D%E8%84%9A%E5%9E%8B%E6%89%98%E7%9B%98/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E7%BD%91%E6%A0%BC%E4%B9%9D%E8%84%9A%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E7%BD%91%E6%A0%BC%E4%B9%9D%E8%84%9A%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E7%BD%91%E6%A0%BC%E4%B9%9D%E8%84%9A%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E7%BD%91%E6%A0%BC%E4%B9%9D%E8%84%9A%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -702,6 +1037,26 @@
     <loc>http://localhost:1313/product_categories/%E7%BD%91%E6%A0%BC%E5%8F%8C%E9%9D%A2%E5%9E%8B%E6%89%98%E7%9B%98/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E7%BD%91%E6%A0%BC%E5%8F%8C%E9%9D%A2%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E7%BD%91%E6%A0%BC%E5%8F%8C%E9%9D%A2%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E7%BD%91%E6%A0%BC%E5%8F%8C%E9%9D%A2%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E7%BD%91%E6%A0%BC%E5%8F%8C%E9%9D%A2%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/product_categories/%E7%BD%91%E6%A0%BC%E5%8F%8C%E9%9D%A2%E5%9E%8B%E6%89%98%E7%9B%98/"
                 />
@@ -714,6 +1069,26 @@
     <loc>http://localhost:1313/product_categories/%E7%BD%91%E6%A0%BC%E5%B7%9D%E5%AD%97%E5%9E%8B%E6%89%98%E7%9B%98/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E7%BD%91%E6%A0%BC%E5%B7%9D%E5%AD%97%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E7%BD%91%E6%A0%BC%E5%B7%9D%E5%AD%97%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E7%BD%91%E6%A0%BC%E5%B7%9D%E5%AD%97%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E7%BD%91%E6%A0%BC%E5%B7%9D%E5%AD%97%E5%9E%8B%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/product_categories/%E7%BD%91%E6%A0%BC%E5%B7%9D%E5%AD%97%E5%9E%8B%E6%89%98%E7%9B%98/"
                 />
@@ -724,6 +1099,26 @@
                 />
   </url><url>
     <loc>http://localhost:1313/product_categories/%E7%BD%91%E6%A0%BC%E7%94%B0%E5%AD%97%E5%BD%A2%E6%89%98%E7%9B%98/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E7%BD%91%E6%A0%BC%E7%94%B0%E5%AD%97%E5%BD%A2%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E7%BD%91%E6%A0%BC%E7%94%B0%E5%AD%97%E5%BD%A2%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E7%BD%91%E6%A0%BC%E7%94%B0%E5%AD%97%E5%BD%A2%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E7%BD%91%E6%A0%BC%E7%94%B0%E5%AD%97%E5%BD%A2%E6%89%98%E7%9B%98/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -768,6 +1163,26 @@
                 />
   </url><url>
     <loc>http://localhost:1313/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98%E5%8D%B1%E5%8C%96%E5%93%81%E6%89%98%E7%9B%98/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98%E5%8D%B1%E5%8C%96%E5%93%81%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98%E5%8D%B1%E5%8C%96%E5%93%81%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98%E5%8D%B1%E5%8C%96%E5%93%81%E6%89%98%E7%9B%98/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/product_categories/%E9%98%B2%E6%B8%97%E6%BC%8F%E6%89%98%E7%9B%98%E5%8D%B1%E5%8C%96%E5%93%81%E6%89%98%E7%9B%98/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"

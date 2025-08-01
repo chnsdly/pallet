@@ -1,6 +1,6 @@
 ---
-title: "Häufige Fragen"
-description: "this is meta description"
+title: "常见问题解答"
+description: ""
 subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
 lastmod: 2021-04-01T00:00:00
 bg_image: "images/feature-bg.jpg"
@@ -8,55 +8,30 @@ layout: "faq"
 draft: false
 ---
 
-### Welcome to Airspace!
+## 宝恒托盘常见问题解答（FAQ）  
+<br/><br/>
+### 宝恒塑料托盘能承载多重？  
+**答：** 常规 1200 × 1000 mm 川字/田字款在室温工况下，**静载可达约 4–6 t，动载约 1 t**。若需更高载荷，可定制加筋或玻纤增强型号。
+<br/><br/>
+### 托盘使用什么材质？是否食品级？  
+**答：** 主体为全新 HDPE（高密度聚乙烯），耐冲击、易清洗；冷链或高温场景可选 PP。
+<br/><br/>
+### 耐温范围是多少？可以进冷库吗？  
+**答：** HDPE 型一般适用 **-25 °C～+60 °C**；PP/复合型低温可降至 -40 °C 左右，高温暂载可达 +100 °C。
+<br/><br/>
+### 宝恒托盘是否兼容四向进叉和自动化立体库 (AS/RS)？  
+**答：** 川字、田字和九脚系列均预留 ≥100 mm 叉口；底部倒角小于 3 mm，可适配大部分窄巷道货架、穿梭车和自动化立体库。如需特殊导轨或防滑垫，可在下单时提出。
+<br/><br/>
+### 托盘可以定制颜色、Logo吗？  
+**答：** 可以。颜色可按 RAL 近似色调配；Logo 支持激光蚀刻、丝印或移印。普通定制 MOQ 从 **1000 件** 起，具体视型号而定。
+<br/><br/>
+### 常规生产周期和装柜量是多少？  
+**答：** 标准款若有原料库存，**交期约 7–14 天**；大批量或改色定制约 3–4 周。40 HQ 高柜装载数量视型号和堆叠方式而定，常见 1200 × 1000 mm 川字托盘可装 **600–700 件**。
+<br/><br/>
+### 质保与售后政策怎么执行？  
+**答：** 在规范使用条件下，宝恒提供 **12–24 个月质保**（具体随合同条款），非人为破损可按比例赔换或抵扣。售后支持照片/视频远程鉴定，必要时寄回检测。
+<br/><br/>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+---
 
-#### 1.Overview
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
-
-#### 2. Data We Collect
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
-
-#### 3. How We Use Data
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
-
-#### 4. How We Disclose Data.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
-
-#### 5. Security
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
-
-#### 6. Advertising.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+> **温馨提示：** 上述数值为常规参考，具体载荷、耐温与质保条款以最终报价单及技术协议为准。欢迎通过官网表单、电话、WhatsApp 等方式联系我们获取专属解决方案。

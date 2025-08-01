@@ -1,105 +1,121 @@
 ---
-############################### Banner ##############################
 banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "La base motrice perpétuelle de la logistique : transporter toujours plus de possibilités"
+  content: ""
   button:
     enable: true
-    label: "Discover Our Project"
-    link: "project/"
+    label: "Voir les produits"
+    link: "products/"
 
-############################# About #################################
-about:
+products:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
-  image: "images/wrapper-img.png"
+  title: "Gamme complète de palettes pour logistique & entrepôt"
+  description: "Du granulat à l’application, nous fournissons des porteurs haute résistance sur mesure"
+  items:
+    - title: "Gamme complète"
+      content: "Inclut palettes pleines, trois-semelles / périmétriques, froid et produits dangereux."
+      image: "images/img-1.jpg"
 
+    - title: "Matière première HDPE/PP vierge"
+      content: "Granulés de 1ʳᵉ qualité, grande ténacité, résistance au froid, conformes aux normes environnementales."
+      image: "images/img-3.jpg"
 
-######################### Portfolio ###############################
-portfolio:
+    - title: "Atelier de production"
+      content: "Lignes d’injection 24 h/24 + traçabilité pour garantir la stabilité de chaque lot."
+      image: "images/img-5.jpg"
+
+    - title: "Démonstration d’empilage"
+      content: "Aucune déformation, meilleure utilisation du volume d’entrepôt."
+      image: "images/img-4.jpg"
+
+    - title: "Stock disponible"
+      content: "Centre logistique de 6 000 m² avec palettes en stock permanent."
+      image: "images/img-2.jpg"
+
+    - title: "Chargement & expédition rapides"
+      content: "Chargement express pour déclencher l’expédition sans délai."
+      image: "images/img-6.jpg"
+
+scenario:
+  enable: false
+  title: "Palettes spécialisées multi-scénarios"
+  description: "Palettes plastique haute résistance sur mesure pour répondre aux besoins variés des secteurs"
+  items:
+    - title: "Spécial rayonnage"
+      content: "Conçue pour entrepôts automatisés ; entrée 4 faces, surface antidérapante, tolère humidité et température."
+      image: "images/products/pallet.jpg"
+
+    - title: "Niveau agro & pharma"
+      content: "Monobloc sans interstices, conforme aux normes d’hygiène, supporte lavages intensifs et matériaux antibactériens."
+      image: "images/products/pallet.jpg"
+
+    - title: "Logistique internationale"
+      content: "Conception certifiée export, matériau anti-humidité et insectes, coins protégés pour longs trajets."
+      image: "images/products/pallet.jpg"
+
+    - title: "Pièces lourdes"
+      content: "Structure renforcée, traitement antistatique, gorges spéciales pour formes irrégulières, résistante aux huiles."
+      image: "images/products/pallet.jpg"
+
+    - title: "Chaîne du froid"
+      content: "Résiste au gel, grille anti-eau stagnante, clous antidérapants pour sécurité en chambre froide."
+      image: "images/products/pallet.jpg"
+
+    - title: "Anti-corrosion chimique"
+      content: "Polymère haute résistance aux acides/bases, couleurs vives pour la sécurité."
+      image: "images/products/pallet.jpg"
+
+funfacts:
   enable: true
-  bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "Baoheng Pallets · Puissance industrielle mondiale"
+  description: "Spécialiste des palettes plastiques, export dans plus de 20 pays<br>Soutien logistique professionnel pour la supply-chain mondiale"
+  funfact_item:
+    - icon: "fas fa-industry"
+      name: "Années d’expertise"
+      count: "15"
+      suffix: "ans"
 
+    - icon: "fas fa-globe-asia"
+      name: "Couverture internationale"
+      count: "22"
+      suffix: "+pays"
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+    - icon: "fas fa-pallet"
+      name: "Capacité annuelle"
+      count: "158"
+      suffix: "×10 000 pcs"
 
+    - icon: "fas fa-users"
+      name: "Clients internationaux"
+      count: "2688"
+      suffix: "+entreprises"
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
-  button:
-    enable: true
-    label: "View Works"
-    link: "project/"
+  testimonial_slider:
+    - name: "田中健一"
+      image: "images/clients/avater-1.jpg"
+      designation: "Responsable logistique, Nippon Express"
+      content: "Avec les palettes Baoheng, plus de glissements et le taux de casse de nos appareils de précision est tombé à 0,2 %. Nous économisons plus de 20 millions ¥ par an."
 
+    - name: "Hans Müller"
+      image: "images/clients/avater-2.jpg"
+      designation: "Chef d’exploitation, Kuehne + Nagel"
+      content: "Depuis que nous avons adopté Baoheng, le débit des quais s’est amélioré. Même à –20 °C, elles restent intactes ; cinq ans d’usage sans mise au rebut."
 
-############################# Service ############################
-service:
-  enable: true
-  # service content comes from "service.md" file
+    - name: "Kwame Nkrumah"
+      image: "images/clients/avater-3.jpg"
+      designation: "Directeur des opérations, Port d’Alexandrie"
+      content: "Le brouillard salin n’affecte pas ces palettes anticorrosion. Avec les clous antidérapants, rien ne bouge ; le taux de casse est passé de 5 % à 1,2 %."
 
-
-############################ call to action ###########################
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Invitation à coopérer pour un succès partagé"
+  content: "Faites-nous part de vos besoins ; nous proposerons une solution sur mesure."
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Contactez-nous"
     link: "contact/"
-
-############################# Funfacts ###############################
-funfacts:
-  enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-  funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
-
-  # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
-
-  # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
-
-  # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
-
-  testimonial_slider:
-  # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-
 ---

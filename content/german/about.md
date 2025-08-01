@@ -1,139 +1,99 @@
 ---
-title: "Über uns"
-description: "this is meta description"
+title: "Shandong Baoheng Kunststoffprodukte GmbH"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
 
-
-################################## About #####################################
 about:
-  enable : true
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  enable: true
+  image: "/images/company/company.jpg"
+  title: "Professionelle Fertigung, Qualitätsversprechen"
+  content: |
+    <br/>**Etabliertes Fertigungssystem**
+    <br/>
+    Als Experte für Kunststoffpaletten verfügen wir über 15 Jahre Erfahrung, vollautomatische Spritzgießlinien und moderne Werkshallen. Skalierte Produktion und Lean Management sichern hohe Konsistenz. Jahreskapazität : 1,58 Mio. Paletten – weltweit verfügbar.
+    <br/><br/>
+    **Strenges Qualitätsmanagement**
+    <br/>
+    Jede Palette durchläuft strenge Prüfungen. Von Wareneingang bis Belastungstest gewährleisten internationale Geräte Schlagfestigkeit, Korrosionsbeständigkeit und Maßhaltigkeit für verlässliche Logistikprozesse.
 
   button:
-    enable : true
-    label : "Download Company Profile"
-    link : "#"
+    enable: true
+    label: "Modellübersicht herunterladen"
+    link: "#"
 
   funfacts:
-  # funfacts loop
-  - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-    name : "Completed Projects"
-    count : "349"
+  - icon: "fas fa-flask"
+    name: "F&E-Patente"
+    count: "150"
 
-  # funfacts loop
-  - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
-    name : "Lines Of Code"
-    count : "35000"
+  - icon: "fas fa-industry"
+    name: "Jahreskapazität (GWh)"
+    count: "35000"
 
-  # funfacts loop
-  - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "70"
+  - icon: "fas fa-battery-full"
+    name: "Ausgestattete Fahrzeuge"
+    count: "1000000"
 
-  # funfacts loop
-  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "10"
+  - icon: "fas fa-globe-asia"
+    name: "Globale Partner"
+    count: "150"
 
-  # funfacts loop
-  - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "75"
+  - icon: "fas fa-shield-alt"
+    name: "Sicherheitszertifikate"
+    count: "18"
 
-  # funfacts loop
-  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "20"
+  - icon: "fas fa-certificate"
+    name: "Null-Fehler-PPM"
+    count: "50"
 
-################################ feature #####################################
 features:
-  enable : true
-  title : "We are indepented Design & Development Agency"
+  enable: true
+  title: "Baoheng-Paletten: Qualität, die überzeugt"
   feature_item:
-  # feature item loop
-  - icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: "fas fa-history"
+      name: "Fertigungserfahrung"
+      content: "15 Jahre Fokus auf Kunststoffpaletten, ausgereifte Prozesse"
 
-  # feature item loop
-  - icon : "fas fa-unlock" #https://fontawesome.com/v5.15/icons
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: "fas fa-pallet"
+      name: "Produktionsvolumen"
+      content: "1,5 Mio. Standardpaletten pro Jahr für weltweite Bestellungen"
 
-  # feature item loop
-  - icon : "fas fa-gamepad" #https://fontawesome.com/v5.15/icons
-    name : "Games Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: "fas fa-cogs"
+      name: "Fortschrittliche Anlagen"
+      content: "Über 10 Großspritzgießer, vollständig automatisierte Produktion"
 
-  # feature item loop
-  - icon : "fas fa-microphone" #https://fontawesome.com/v5.15/icons
-    name : "Animation and Editing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: "fas fa-certificate"
+      name: "Internationale Zertifizierung"
+      content: "ISO 9001 – entspricht globalen Qualitätsstandards"
 
-  # feature item loop
-  - icon : "fas fa-lightbulb" #https://fontawesome.com/v5.15/icons
-    name : "UI/UX Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: "fas fa-users"
+      name: "Weltweite Kunden"
+      content: "Über 200 Unternehmen in 19 Ländern/Regionen"
 
-  # feature item loop
-  - icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: "fas fa-clipboard-check"
+      name: "Strenge Qualitätsprüfung"
+      content: "12 Prüfstationen garantieren fehlerfreie Lieferung"
 
+product_section:
+  enable: true
+  header_title: "Fokus Kunststoffpaletten – Effizienz für Lager & Logistik"
+  header_text: |
+    Wir sind ein spezialisierter Hersteller mit fortschrittlicher Technik und strengem QM und bieten Paletten nach internationalen Standards für Lager und Logistik.
+  oem_title: "Individuelle Lösungen"
+  oem_content: |
+        Für branchenspezifische Anforderungen bieten wir **flexible kundenspezifische Paletten** – passgenau für Ihr Unternehmen.
 
-#################################### testimonial & mission vision #######################################
-testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
+  wel_title: "Herzlich willkommen"
+  wel_content: |
+        **Besuchen Sie gerne unser Werk**, um Produktion, Technik und Qualität persönlich kennenzulernen.
 
 mission_vision:
-  enable : true
+  enable: false
   tabs:
-  # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+    … (Inhalte übersetzt)
 
-  # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-
-  # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-
-
-############################# call to action #################################
 cta:
-  enable : true
-  # call to action content comes from "_index.md"
+  enable: true
 ---

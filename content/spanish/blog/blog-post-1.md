@@ -1,39 +1,83 @@
 ---
-title: "Nuevo Avance en I+D de Tecnología Clave"
+title: "Caso de Éxito | Qingyuan Bebidas × Palés de Plástico Baoheng"
 date: 2022-09-08T11:07:10+06:00
 author: Wei Benlong
 image : "images/blog/news1.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Avance Tecnológico"]
-tags: ["I+D"]
-description: "Enfocados en cuatro métricas clave - densidad energética, vida útil, seguridad y carga rápida - fortalecemos integralmente nuestra competitividad global"
+categories: ["Casos de Éxito"]
+tags: ["Alimentación"]
+description: ""
 draft: false
 type: "post"
 ---
-En medio de la rápida evolución de la tecnología de baterías, nuestro centro de I+D anuncia otro avance significativo. Apoyados en sólidas capacidades de I+D independiente y estrategia tecnológica visionaria, logramos avances cruciales en sistemas de materiales, diseño estructural e integración de sistemas. Estas innovaciones mejoran sustancialmente el rendimiento de productos y consolidan nuestro liderazgo en baterías de litio. Este hito eleva nuestras capacidades tecnológicas y respalda la creciente demanda global de baterías de alto rendimiento, seguras y duraderas.
+
+**Qingyuan Bebidas** — reconocida empresa de bebidas del este de China.  
+Capacidad de producir decenas de miles de botellas al día y más de **15 000 ciclos de palé** diarios.
+
 <!--more-->
-## Base de Talento: Motor de Innovación
 
-Nuestros avances sostenidos surgen de inversiones estratégicas en talento de élite. Hemos formado un equipo interdisciplinario de I+D con profunda experiencia en electroquímica, ciencia de materiales, diseño estructural, gestión térmica y manufactura inteligente, permitiendo innovación colaborativa.
+## 1. Contexto del proyecto
 
-Priorizamos el desarrollo de talento mediante sistemas robustos de protección IP y mecanismos que fomentan la innovación. Esto crea una cultura de I+D de "atreverse a explorar, atreverse a innovar" que impulsa continuamente el progreso.
+Qingyuan opera 24/7 con almacén de alta rotación. Con el crecimiento de los pedidos, los antiguos palés de madera provocaban problemas de seguridad, higiene y coste, amenazando la estabilidad de la línea y las auditorías GMP.
 
-## Este Salto Tecnológico se Centra en Cuatro Métricas Clave:
+---
 
-- **Aumento de Densidad Energética**:  
-  Mediante innovación en materiales y optimización de procesos, nuestra nueva plataforma incrementa significativamente la densidad energética manteniendo altos estándares de seguridad, ofreciendo mayor autonomía.
+## 2. Retos
 
-- **Avance en Vida Útil**:  
-  Mejoras en estabilidad de interfaces y diseño estructural prolongan drásticamente la vida útil en condiciones exigentes, reduciendo costos de ciclo de vida.
+**Contaminación por astillas de madera**  
+Síntoma: astillas que llegan a la línea de envasado y provocan paradas.  
+Impacto: tiempo de inactividad no planificado > **4 h/mes**.  
 
-- **Refuerzo Integral de Seguridad**:  
-  Múltiples mejoras en mecanismos de seguridad activa y pasiva crean un sistema más robusto y confiable.
+**Humedad y moho**  
+Síntoma: palés que absorben agua, se enmohecen y superan los límites sanitarios.  
+Impacto: deducciones GMP repetidas; desinfección adicional necesaria.  
 
-- **Optimización de Carga Rápida**:  
-  Mayor eficiencia en migración de iones de litio en condiciones extremas mejora capacidad de carga rápida y experiencia de usuario.
+**Fallo estructural**  
+Síntoma: rotura o deformación de palés con vuelco de mercancía.  
+Impacto: tasa de chatarra ≈ 30 %, aumento de pérdidas y reclamaciones.  
 
-## Hacia el Liderazgo Tecnológico Global
+**Carga manual**  
+Síntoma: palés más pesados por absorción de agua; mayor esfuerzo.  
+Impacto: mayor riesgo de lesiones y horas extra.  
 
-Este hito de I+D marca un paso crucial en nuestro camino para convertirnos en "líder global impulsado por tecnología".
+---
 
-Potencia actualizaciones de líneas existentes, brinda validación técnica para mercados premium y clientes globales, y demuestra nuestro compromiso con la innovación sectorial.
+## 3. Solución
+
+**Cambio a palés de PP de grado alimentario Baoheng**  
+Palés de inyección monobloque, superficie lisa sin rebabas, rejilla antideslizante. El PP de grado FDA soporta lavado a alta presión y mantiene **1,6 t de carga estática** de -35 °C a +60 °C sin deformarse.  
+
+**Pequeños ajustes de layout**  
+Se reasignaron las ubicaciones según el nuevo tamaño y se añadieron bastidores de goteo en la zona de lavado para acelerar la rotación.
+
+---
+
+## 4. Resultados (a las 3 semanas de la puesta en marcha)
+
+**Contaminación por astillas**  
+Antes: 5–6 paradas imprevistas/semana.  
+Después: eliminada; paradas **0**.  
+
+**Deducciones GMP**  
+Antes: 2–3 puntos por inspección.  
+Después: **0** puntos.  
+
+**Tasa de rotura de palés**  
+Antes: ≈ 30 %, altos costes de reparación.  
+Después: **< 1 %**, coste casi nulo.  
+
+**Carga manual**  
+Antes: alta; riesgo de lesiones y horas extra.  
+Después: esfuerzo reducido **≈ 33 %**.  
+
+**Ahorro anual**  
+Ahorro total estimado **≈ ¥650 000 al año**.
+
+---
+
+## 5. Testimonio del cliente
+
+> “Los palés de madera eran un dolor de cabeza: multas, reparaciones nocturnas, reclamaciones…  
+> Ahora los palés de plástico son limpios y duraderos; la línea de tres turnos no se detiene y ahorramos más de 600 k ¥ al año.  
+> **Lo más importante: tranquilidad.**”  
+> **— Wang Haibo · Jefe de Logística y Almacén, Qingyuan Bebidas**

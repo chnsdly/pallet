@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prodotti Pallet on Baoheng | Pallet</title>
+    <link>http://localhost:1313/it/products/</link>
+    <description>Recent content in Prodotti Pallet on Baoheng | Pallet</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <atom:link href="http://localhost:1313/it/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pallet a griglia con 9 piedini nestabile</title>
+      <link>http://localhost:1313/it/products/open-9leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/open-9leg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pallet a griglia con 3 longheroni</title>
+      <link>http://localhost:1313/it/products/open-triple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/open-triple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pallet a griglia con base perimetrale</title>
+      <link>http://localhost:1313/it/products/open-grid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/open-grid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pallet a griglia doppia faccia reversibile</title>
+      <link>http://localhost:1313/it/products/open-rever/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/open-rever/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pallet a piano pieno</title>
+      <link>http://localhost:1313/it/products/solid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/solid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pallet soffiati</title>
+      <link>http://localhost:1313/it/products/blow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/blow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pallet dedicato a macchine da stampa</title>
+      <link>http://localhost:1313/it/products/print/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/print/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bancali di contenimento per materiali pericolosi</title>
+      <link>http://localhost:1313/it/products/leak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/leak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pallet a cassa</title>
+      <link>http://localhost:1313/it/products/box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/products/box/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

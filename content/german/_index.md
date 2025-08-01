@@ -1,105 +1,121 @@
 ---
-############################### Banner ##############################
 banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Das ewige Fundament der Logistik – mehr Möglichkeiten für die Welt bewegen"
+  content: ""
   button:
     enable: true
-    label: "Discover Our Project"
-    link: "project/"
+    label: "Produkte ansehen"
+    link: "products/"
 
-############################# About #################################
-about:
+products:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
-  image: "images/wrapper-img.png"
+  title: "Vollsortiment Paletten für Lager & Logistik"
+  description: "Von Rohmaterial bis Einsatz – hochfeste, kundenspezifische Ladungsträger"
+  items:
+    - title: "Komplettes Sortiment"
+      content: "Umfasst Volldeck-, Drei-/Rahmen-, Kühlketten- und Gefahrgutpaletten."
+      image: "images/img-1.jpg"
 
+    - title: "HDPE/PP-Neuware"
+      content: "Erstklassiges Granulat, hohe Zähigkeit, kältebeständig und umweltkonform."
+      image: "images/img-3.jpg"
 
-######################### Portfolio ###############################
-portfolio:
+    - title: "Fertigungswerk"
+      content: "24-h Spritzgießlinien plus Rückverfolgung sichern chargenreine Qualität."
+      image: "images/img-5.jpg"
+
+    - title: "Stapeldemo"
+      content: "Verformungsfrei stapelbar, bessere Lagerraumnutzung."
+      image: "images/img-4.jpg"
+
+    - title: "Lagerbestand"
+      content: "6 000 m² Zentrallager mit kontinuierlichem Palettenvorrat."
+      image: "images/img-2.jpg"
+
+    - title: "Schnelles Verladen & Versand"
+      content: "Schnelles Container-Loading – Aufträge gehen sofort auf Reise."
+      image: "images/img-6.jpg"
+
+scenario:
+  enable: false
+  title: "Spezialpaletten für jede Anwendung"
+  description: "Kundenspezifische Hochleistungs-Paletten für vielfältige Branchenanforderungen"
+  items:
+    - title: "Für Hochregale"
+      content: "AS/RS-Design, 4-Wege-Einfahrt, Antirutsch-Deck, klimaresistent und langlebig."
+      image: "images/products/pallet.jpg"
+
+    - title: "Food & Pharma"
+      content: "Fugenloses Monoblock-Design, hygienekonform, reinigungs- und desinfektionsbeständig."
+      image: "images/products/pallet.jpg"
+
+    - title: "Exportlogistik"
+      content: "International zertifiziert, feuchte- & insektenresistent, Kantenschutz für Ferntransporte."
+      image: "images/products/pallet.jpg"
+
+    - title: "Schwerlastteile"
+      content: "Verstärkte Struktur, ESD-Schutz, Nuten für unregelmäßige Teile, ölbeständig."
+      image: "images/products/pallet.jpg"
+
+    - title: "Kühlketten-Einsatz"
+      content: "Kälteresistent, Gitter gegen Eisbildung, Antirutsch-Nägel für Sicherheit im Froster."
+      image: "images/products/pallet.jpg"
+
+    - title: "Chemikalien-resistent"
+      content: "Hochfestes, säure-/laugenbeständiges Material, auffällige Sicherheitsfarbe."
+      image: "images/products/pallet.jpg"
+
+funfacts:
   enable: true
-  bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "Baoheng Paletten · Globale Fertigungskompetenz"
+  description: "15 Jahre Fokus auf Kunststoffpaletten, Export in über 20 Länder<br>Professionelle Logistikausrüstung für globale Supply Chains"
+  funfact_item:
+    - icon: "fas fa-industry"
+      name: "Fertigungserfahrung"
+      count: "15"
+      suffix: "Jahre"
 
+    - icon: "fas fa-globe-asia"
+      name: "Ländermärkte"
+      count: "22"
+      suffix: "+Länder"
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+    - icon: "fas fa-pallet"
+      name: "Jahreskapazität"
+      count: "158"
+      suffix: "×10 000 Stk."
 
+    - icon: "fas fa-users"
+      name: "Internationale Kunden"
+      count: "2688"
+      suffix: "+Unternehmen"
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
-  button:
-    enable: true
-    label: "View Works"
-    link: "project/"
+  testimonial_slider:
+    - name: "田中健一"
+      image: "images/clients/avater-1.jpg"
+      designation: "Logistikmanager, Nippon Express"
+      content: "Mit Baoheng-Paletten gibt es praktisch keine Verrutscher mehr – die Schadensquote an Präzisionsgeräten liegt nur noch bei 0,2 %, spart jährlich über 20 Mio. ¥."
 
+    - name: "Hans Müller"
+      image: "images/clients/avater-2.jpg"
+      designation: "Anlagenleiter, Kühne + Nagel"
+      content: "Seit dem Umstieg auf Baoheng stieg die Umschlagleistung. Selbst bei –20 °C bleiben sie zäh; in fünf Jahren keine Ausfälle."
 
-############################# Service ############################
-service:
-  enable: true
-  # service content comes from "service.md" file
+    - name: "Kwame Nkrumah"
+      image: "images/clients/avater-3.jpg"
+      designation: "Betriebsleiter, Hafen Alexandria"
+      content: "Salznebel ist hart, doch die korrosionsfesten Baoheng-Paletten halten stand. Der Verlust sank von 5 % auf 1,2 %."
 
-
-############################ call to action ###########################
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Partnerschaft für gemeinsamen Erfolg"
+  content: "Nennen Sie uns Ihre Anforderungen – wir liefern die maßgeschneiderte Lösung."
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Kontaktieren Sie uns"
     link: "contact/"
-
-############################# Funfacts ###############################
-funfacts:
-  enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-  funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
-
-  # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
-
-  # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
-
-  # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
-
-  testimonial_slider:
-  # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-
 ---

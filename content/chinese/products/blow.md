@@ -53,6 +53,10 @@ products:
       specs: "尺寸:120*100*15cm | 重量:10kg | 动载:1.5吨"
       image: "images/products/blow/nine-1210g.jpg" 
 
+    - name: "九脚-1210b"
+      specs: "尺寸:120*100*15cm | 重量:10kg | 动载:1.5吨"
+      image: "images/products/blow/nine-1210b.jpg" 
+
     - name: "九脚-1211"
       specs: "尺寸:120*110*15cm | 重量:10kg | 动载:1吨"
       image: "images/products/blow/nine-1211.jpg" 

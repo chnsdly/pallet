@@ -16,6 +16,7 @@ products:
       specs: "尺寸:49*35.5*6cm | 渗漏量:12L"
       image: "images/products/leakproof/lp-04903510.jpg"
     - name: "防渗漏-06603612"
+    
       specs: "尺寸:66*36*12cm | 渗漏量:20L"
       image: "images/products/leakproof/lp-06603612.jpg"
     - name: "防渗漏-06006015"

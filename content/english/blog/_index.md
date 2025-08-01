@@ -1,6 +1,7 @@
 ---
-title: "宝恒托盘"
-description: "捕捉行业风向，发布市场布局与合作成果。"
+title: "Case Studies"
+description: "Track industry trends and share market expansion and cooperation achievements."
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---
+

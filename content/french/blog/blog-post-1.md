@@ -1,64 +1,83 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
-image : "images/blog/blog-post-1.jpg"
+title: "Étude de cas | Qingyuan Boissons × Palettes Plastiques Baoheng"
+date: 2022-09-08T11:07:10+06:00
+author: Wei Benlong
+image : "images/blog/news1.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Company News"]
-tags: ["Advice","Technology"]
-description: "this is meta description"
+categories: ["Études de cas"]
+tags: ["Agroalimentaire"]
+description: ""
 draft: false
 type: "post"
 ---
 
+**Qingyuan Boissons** — entreprise de boissons renommée de la Chine de l’Est.  
+Capacité de production : plusieurs dizaines de milliers de bouteilles/jour ; plus de **15 000 rotations de palettes** quotidiennes.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+<!--more-->
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+## 1. Contexte du projet
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+Qingyuan fonctionne en production continue 24 h/24 avec un entreposage à rotation rapide. La montée en puissance des commandes a révélé les limites des vieilles palettes bois : sécurité, hygiène et coût, menaçant la stabilité de la ligne et la note GMP.
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+---
 
+## 2. Défis rencontrés
 
-* hello
-* hello
-* hello
-* hello
-* hello
+**Contamination par sciure**  
+Symptôme : éclats de bois pénétrant la ligne de remplissage et provoquant un arrêt.  
+Impact : plus de **4 h d’arrêt non planifié par mois**.  
 
-1. hello
-2. hello
-3. hello
-4. hello
+**Humidité & moisissure**  
+Symptôme : palettes imbibées d’eau, moisies, dépassant les normes sanitaires.  
+Impact : pénalités GMP répétées ; désinfection supplémentaire requise.  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+**Défaillance structurelle**  
+Symptôme : casse ou gauchissement des palettes entraînant le basculement des charges.  
+Impact : taux de rebut ≈ 30 %, hausse des pertes et litiges.  
+
+**Charge de manutention**  
+Symptôme : palettes alourdies par l’eau, effort accru.  
+Impact : risque d’accident et coûts d’heures sup. plus élevés.  
+
+---
+
+## 3. Solution
+
+**Passage aux palettes plastiques Baoheng en PP grade alimentaire**  
+Palettes monobloc injectées, surface lisse sans bavure, grille antidérapante. Le PP grade FDA supporte le nettoyage haute pression et une charge statique de **1,6 t** de -35 °C à +60 °C sans déformation.  
+
+**Ajustements mineurs du flux**  
+Re-marquage des emplacements selon le nouveau format et ajout de racks d’égouttage dans la zone de lavage pour accélérer la rotation.
+
+---
+
+## 4. Résultats (3 semaines après mise en service)
+
+**Contamination par sciure**  
+Avant : 5–6 arrêts imprévus/semaine.  
+Après : contamination éliminée ; arrêts **0**.  
+
+**Pénalités GMP**  
+Avant : 2–3 points de pénalité par inspection.  
+Après : **0** point.  
+
+**Taux de casse palettes**  
+Avant : ≈ 30 % ; coûts de réparation élevés.  
+Après : **< 1 %** ; quasi-plus de réparations.  
+
+**Charge de manutention**  
+Avant : forte pénibilité ; risque d’accident/HS élevé.  
+Après : effort réduit d’environ **33 %**.  
+
+**Économie annuelle**  
+Gain global estimé à **≈ ¥650 000 par an**.
+
+---
+
+## 5. Témoignage client
+
+> « Les palettes bois étaient un cauchemar : amendes, réparations nocturnes, litiges…  
+> Les palettes plastiques sont propres et durables ; la ligne tourne en continu et nous économisons plus de 600 k ¥ par an.  
+> **Le plus important : la tranquillité d’esprit.** »  
+> **— Wang Haibo · Responsable logistique & entrepôt, Qingyuan Boissons**

@@ -1,121 +1,119 @@
 ---
-############################### Banner ##############################
 banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Hengli New Energy <br/> Experto Global en Baterías para Vehículos Certificadas"
-  content: "Impulsando el desarrollo de sociedades inteligentes. Proveemos tecnología de energía renovable estable, eficiente y segura, contribuyendo a un futuro sostenible."
+  title: "Ser la base perpetua de la logística — transportar más posibilidades para el mundo"
+  content: ""
   button:
     enable: true
-    label: "Ver Productos"
+    label: "Ver productos"
     link: "products/"
 
-############################# About #################################
 products:
   enable: true
-  title: "Soluciones de Energía para Todos los Escenarios"
-  description: "Ofrecemos sistemas de baterías LiFePO4 (60V/72V, 30-200Ah) seguras, confiables y de extralarga duración, satisfaciendo diversas necesidades globales de movilidad y almacenamiento energético."
+  title: "Gama completa de palés para almacén y logística"
+  description: "Desde la materia prima hasta la aplicación, suministramos portadores logísticos de alta resistencia y personalizados"
   items:
-    - title: "Transporte Urbano: Baterías para Triciclos/Furgonetas Ligeras"
-      content: "60V/72V (80-120Ah). Potencia robusta para triciclos de carga y microcamiones de uso extendido. Vida útil excepcional (>2500 ciclos), resistente a arranques frecuentes y cargas pesadas; Tolerancia a altas temperaturas para climas cálidos; Garantiza operación segura en condiciones viales complejas."
-      image: "images/company/changjing2.jpg"  
-    - title: "Movilidad Eléctrica Ligera: Baterías para Bicicletas/Microvehículos"
-      content: "60V/72V (30-60Ah). La opción superior para bicicletas eléctricas, scooters, carritos de golf y vehículos de movilidad. Mayor densidad energética, carga rápida; BMS inteligente garantiza seguridad; Funciona en amplio rango de temperatura (-20°C a 50°C), ideal para desplazamientos diarios y ocio."
-      image: "images/company/changjing3.jpg"  # 示例：东南亚电动摩托、欧美高尔夫球车、共享电单车
-    - title: "Energía Autónoma y de Respaldo: Sistemas Solares Pequeños/Medianos"
-      content: "48V/60V (100-200Ah). Solución ideal para zonas aisladas, estaciones base de telecomunicaciones y respaldo energético para hogares/pequeños negocios. Larga vida útil (8-10 años) reduce costos a largo plazo; Resiste ambientes de alta temperatura (ej. África, Medio Oriente, SEA), ofreciendo suministro estable."
-      image: "images/company/changjing5.jpg"  # 示例：非洲屋顶太阳能+电池系统、通信基站机柜
-    - title: "Vehículos Especializados: Barredoras/Vehículos Turísticos/AGV Ligeros"
-      content: "Voltaje personalizado (48V-72V), Capacidad (50-150Ah). Energía limpia para vehículos especializados. Alta seguridad (pruebas de penetración/compresión) para operación en espacios públicos; Sin mantenimiento reduce costos; Alta eficiencia soporta jornadas extendidas; Diseño flexible para espacios limitados."
-      image: "images/company/changjing4.jpg"  # 示例：街道清扫车、景区电瓶车、物流仓库AGV
+    - title: "Gama completa de productos"
+      content: "Incluye palés de cubierta lisa, de tres/base perimetral, para cadena de frío y para mercancías peligrosas."
+      image: "images/img-1.jpg"
 
-######################### Portfolio ###############################
-portfolio:
+    - title: "Materia prima HDPE/PP"
+      content: "Gránulos de primera calidad, gran tenacidad, resistencia a bajas temperaturas y conformidad medioambiental."
+      image: "images/img-3.jpg"
+
+    - title: "Taller de producción"
+      content: "Líneas de inyección 24 h y sistema de trazabilidad para garantizar la estabilidad de cada lote."
+      image: "images/img-5.jpg"
+
+    - title: "Demostración de apilado"
+      content: "Apilado sin deformación, mayor aprovechamiento del espacio."
+      image: "images/img-4.jpg"
+
+    - title: "Stock disponible"
+      content: "Centro de 6 000 m² con palés en inventario permanente."
+      image: "images/img-2.jpg"
+
+    - title: "Carga y envío rápidos"
+      content: "Carga rápida de contenedores para que los pedidos salgan de inmediato."
+      image: "images/img-6.jpg"
+
+scenario:
   enable: false
-  bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "Palés logísticos especializados para múltiples escenarios"
+  description: "Palés de plástico de alta resistencia personalizados para satisfacer las diversas necesidades de manipulación de todos los sectores"
+  items:
+    - title: "Especial para estanterías de almacén"
+      content: "Diseño específico para almacenes automáticos; entrada por cuatro lados compatible con todo tipo de carretillas, superficie antideslizante que garantiza la estabilidad de la carga, apto para variaciones de temperatura y humedad, duradero."
+      image: "images/products/pallet.jpg"
 
+    - title: "Grado alimentario y farmacéutico"
+      content: "Estructura monobloque sin juntas conforme a normas de higiene, soporta limpieza y desinfección intensivas, material antimicrobiano para un transporte limpio."
+      image: "images/products/pallet.jpg"
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+    - title: "Garantía para logística transfronteriza"
+      content: "Diseño certificado internacionalmente, material resistente a la humedad e insectos que cumple requisitos de exportación, protección de esquinas profesional para la seguridad en el transporte de larga distancia."
+      image: "images/products/pallet.jpg"
 
+    - title: "Manipulación de componentes pesados"
+      content: "Estructura reforzada personalizada, tratamiento antiestático para proteger componentes de precisión, ranuras especiales para fijar cargas irregulares, resistente al aceite y fácil de mantener."
+      image: "images/products/pallet.jpg"
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
-  button:
-    enable: true
-    label: "View Works"
-    link: "project/"
+    - title: "Especial para cadena de frío"
+      content: "Material resistente a bajas temperaturas que mantiene la tenacidad, estructura de rejilla que evita la acumulación de agua y hielo, clavos antideslizantes en la base para la seguridad en cámaras frigoríficas."
+      image: "images/products/pallet.jpg"
 
+    - title: "Resistente a la corrosión química"
+      content: "Material de alta resistencia y resistente a la corrosión química, soporta entornos ácidos y alcalinos, color de seguridad llamativo para mayor visibilidad operativa."
+      image: "images/products/pallet.jpg"
 
-############################# Service ############################
-service:
-  enable: true
-  # service content comes from "service.md" file
-
-############################# Funfacts ###############################
 funfacts:
   enable: true
-  title: "Sobre Hengli New Energy · Datos Clave"
-  description: "Desde nuestra fundación en 2013, nos especializamos en I+D de baterías de litio,<br>con productos exportados globalmente y métricas líderes en la industria."
+  title: "Baoheng Pallets · Capacidad de fabricación global"
+  description: "Dedicados a la fabricación de palés de plástico, con exportaciones a más de 20 países<br>Proporcionamos equipamiento logístico profesional a la cadena de suministro mundial"
   funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-calendar-alt" 
-    name: "Años de Operación"
-    count: "12"
+    - icon: "fas fa-industry"
+      name: "Años de experiencia"
+      count: "15"
+      suffix: "años"
 
-  # funfacts item loop
-  - icon: "fas fa-microscope"
-    name: "Patentes Clave"
-    count: "72"
+    - icon: "fas fa-globe-asia"
+      name: "Cobertura del mercado internacional"
+      count: "22"
+      suffix: "+países"
 
-  # funfacts item loop
-  - icon: "fas fa-bolt" 
-    name: "Capacidad Anual (GWh)"
-    count: "5"
+    - icon: "fas fa-pallet"
+      name: "Capacidad anual"
+      count: "158"
+      suffix: "×10 000 uds"
 
-  # funfacts item loop
-  - icon: "fas fa-globe-americas" 
-    name: "Países Atendidos"
-    count: "38"
+    - icon: "fas fa-users"
+      name: "Clientes internacionales"
+      count: "2688"
+      suffix: "+empresas"
 
   testimonial_slider:
-  # testimonial item loop 东亚市场（中国）
-  - name: "Zhang Zhenguo"
-    image: "images/clients/avater-1.jpg"
-    designation: "Director de Compras de Vehículos Eléctricos, Northern Logistics"
-    content: "Probamos las baterías Hengli 72V200Ah a -30°C en Harbin. Cero fallos en 3 inviernos. Mantuvieron 85% de capacidad en frío, superaron 4000 ciclos, ¡reduciendo costos operativos un 23%!"
+    - name: "田中健一"
+      image: "images/clients/avater-1.jpg"
+      designation: "Gerente de logística, Nippon Express"
+      content: "Los palés de Baoheng llevan casi tres años en nuestra ruta Tokio-Osaka. Lo más evidente es que los deslizamientos de carga prácticamente desaparecieron: la tasa de daños en equipos de precisión cayó a alrededor del 0,2 %, lo que ahorra más de 20 millones de yenes al año solo en embalaje y retrabajos."
 
-  # testimonial item loop 东南亚市场（泰国）
-  - name: "Somchai Wattana"
-    image: "images/clients/avater-2.jpg"
-    designation: "Gerente Técnico, Cooperativa Agrícola de Chiang Mai"
-    content: "Baterías Hengli 60V120Ah operaron 18 meses con 90% de humedad en Bangkok. Protección IP67 resistió lluvias, BMS evitó sobrecargas, ¡aumentando eficiencia de riego un 40%!"
+    - name: "Hans Müller"
+      image: "images/clients/avater-2.jpg"
+      designation: "Supervisor de instalaciones, Kuehne + Nagel"
+      content: "Después de reemplazar todos los palés del muelle por los de Baoheng, nuestra eficiencia de rotación mejoró. En el puerto se alcanzan –20 °C en invierno y no se vuelven frágiles; las dimensiones son totalmente compatibles con los sistemas europeos. En cinco años no hemos descartado ni uno solo."
 
-  # testimonial item loop 非洲市场（尼日利亚）
-  - name: "Amina Jafar"
-    image: "images/clients/avater-3.jpg"
-    designation: "Ingeniera, Proyecto Solar Comunitario, Lagos"
-    content: "Nuestro sistema Hengli 48V200Ah funcionó 2 años a 45°C cerca del Sahara con solo 8% de degradación. Alimenta 200 hogares de noche y neveras médicas sin interrupciones."
+    - name: "Kwame Nkrumah"
+      image: "images/clients/avater-3.jpg"
+      designation: "Director de operaciones, Puerto de Alejandría"
+      content: "La niebla salina marina es dura con el equipo, pero los palés anticorrosión de Baoheng aguantan. Con los clavos antideslizantes no se mueven ni en cubiertas húmedas, y soportan sin problemas el peso de maquinaria pesada. La tasa anual de pérdidas bajó del 5 % al 1,2 %."
 
-  # testimonial item loop 欧美市场（德国）
-  - name: "Thomas Müller"
-    image: "images/clients/avater-3.jpg"
-    designation: "Director de Instalaciones, Berlin Green Campus"
-    content: "20 barredoras usan baterías Hengli 72V150Ah (certificadas CE/ROHS). Carga rápida de 1.5h para 8h de trabajo. Capacidad >85% tras 2000 ciclos, superando metas de reducción de CO₂ en 35%."
-
-  # testimonial item loop 中东市场
-  - name: "Ahmed Khan"
-    image: "images/clients/avater-3.jpg"
-    designation: "Director Técnico, Empresa de Transporte, Dubái"
-    content: "500 triciclos con baterías Hengli recorren 200km/día a 50°C. Cero incidentes térmicos en 3 años/100,000+ km. Certificación UN38.3 asegura cumplimiento, con 67% menos fallos que competidores."
-############################ call to action ###########################
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "Buscamos Distribuidores: Creemos Juntos, Beneficio Mutuo"
-  content: "Margen de Ganancia Atractivo&nbsp;  |  &nbsp;Soporte Comercial Integral&nbsp;  |  &nbsp;Asistencia Técnica Profesional"
+  title: "Invitación a colaborar: ganar-ganar y crear juntos un futuro brillante"
+  content: "Cuéntenos sus necesidades y le ofreceremos una solución a medida."
   button:
     enable: true
     label: "Contáctenos"
