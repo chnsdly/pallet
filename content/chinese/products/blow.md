@@ -75,7 +75,7 @@ products:
 
     - name: "优等料九脚1210"
       specs: "尺寸:120*120*15cm | 重量:10kg | 动载:吨"
-      image: "images/products/blow/nine-1210.jpg" 
+      image: "images/products/blow/nine-1210you.jpg" 
 
     - name: "优等料九脚-1311"
       specs: "尺寸:120*120*15cm | 重量:13kg | 动载:吨"

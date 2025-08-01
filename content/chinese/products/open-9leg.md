@@ -39,19 +39,19 @@ products:
 
     - name: "网格九脚型-1210A"
       specs: "尺寸:120*100*14cm | 重量:6kg | 动载:0.4吨"
-      image: "images/products/open-nine/9leg-1210.jpg" 
+      image: "images/products/open-nine/9leg-1210A.jpg" 
     
     - name: "网格九脚型-1210B"
       specs: "尺寸:120*100*14cm | 重量:7kg | 动载:0.5吨"
-      image: "images/products/open-nine/9leg-1210.jpg" 
+      image: "images/products/open-nine/9leg-1210B.jpg" 
 
     - name: "网格九脚型-1210C"
       specs: "尺寸:120*100*14cm | 重量:8kg | 动载:0.6吨"
-      image: "images/products/open-nine/9leg-1210.jpg" 
+      image: "images/products/open-nine/9leg-1210C.jpg" 
 
     - name: "网格九脚型-1210D"
       specs: "尺寸:120*100*14cm | 重量:9kg | 动载:0.7吨"
-      image: "images/products/open-nine/9leg-1210.jpg" 
+      image: "images/products/open-nine/9leg-1210D.jpg" 
 
     - name: "网格九脚型-1211"
       specs: "尺寸:120*110*14cm | 重量:7kg | 动载:0.6吨"
@@ -64,4 +64,8 @@ products:
     - name: "网格九脚型-1311"
       specs: "尺寸:130*110*14cm | 重量:8.8kg | 动载:0.8吨"
       image: "images/products/open-nine/9leg-1311.jpg" 
+    
+    - name: "网格九脚型"
+      specs: ""
+      image: "images/products/open-nine/9leg-main.jpg" 
 ---

@@ -26,7 +26,8 @@ products:
       image: "images/products/open-2/Re-1311.jpg" 
 
     - name: "网格双面型-1412"
-      specs: "尺寸:140*120*14cm | 重量:22、25、26、27.5、28.5kg | 动载:2吨"
+      specs: "尺寸:140*120*14cm | 重量:22、25、26、27.5、28.5kg | 动载:2吨 浙江曾1614 1616"
       image: "images/products/open-2/Re-1412.jpg" 
+       
 
 ---

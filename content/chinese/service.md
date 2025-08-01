@@ -59,7 +59,7 @@ service:
 
     - icon: fas fa-snowflake
       name: 耐候性强
-      content: "-30℃至80℃环境稳定使用，抗UV老化"
+      content: "-30℃至60℃环境稳定使用，抗UV老化"
 
     - icon: fas fa-exchange-alt
       name: 多场景适配

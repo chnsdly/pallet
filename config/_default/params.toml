@@ -22,11 +22,11 @@ phone2 = "(+86) 13792998878（whatsapp、wechat）"
 email = "weibenlong6@gmail.com"
 location = """
 **Xianghe Industrial Park**  
-Linyi city, Shandong Province<br>
+lanshan District, Linyi city, Shandong Province<br>
 China
 """
 # copyright
-copyright = "© 2025 Hengli New Energy (Linyi) Co., Ltd."
+copyright = "©2025 Shandong Baoheng Plastic Products Co., Ltd. All rights reserved."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/

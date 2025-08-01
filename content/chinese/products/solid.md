@@ -127,4 +127,13 @@ products:
     - name: "川字-1412"
       specs: "尺寸:140*120*15cm | 动载:1.3吨"
       image: "images/products/solid/Triple-1412.jpg" 
+    - name: "川字-1513"
+      specs: "尺寸:150*130*15cm | 动载:1.3吨"
+      image: "images/products/solid/Triple-1513.jpg" 
+    - name: "川字-1515"
+      specs: "尺寸:150*150*15cm | 动载:1.3吨"
+      image: "images/products/solid/Triple-1515.jpg" 
+    - name: "川字-1210"
+      specs: "尺寸:120*100*15cm | 动载:1吨"
+      image: "images/products/solid/Triple-1210n.jpg" 
 ---

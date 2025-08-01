@@ -29,8 +29,8 @@ products:
       content: "24h注塑线 + 质量追溯系统，确保批次质量稳定可控。"
       image: "images/img-5.jpg"
 
-    - title: "高位货架应用展示"
-      content: "托盘配合立体货架，堆码不变形，仓容利用率提升。"
+    - title: "码垛应用展示"
+      content: "堆码不变形，仓容利用率提升。"
       image: "images/img-4.jpg"
 
     - title: "现货库存"
@@ -109,18 +109,18 @@ funfacts:
       
     - icon: "fas fa-globe-asia" 
       name: "国际市场覆盖"
-      count: "20"
+      count: "22"
       suffix: "+国家"
       
     - icon: "fas fa-pallet" 
       name: "年产能（万）"
-      count: "150"
+      count: "158"
       suffix: "万片"
       
     # 优化表述：更务实的客户指标
     - icon: "fas fa-users" 
       name: "国际客户"
-      count: "200"
+      count: "2688"
       suffix: "+企业"
 
   testimonial_slider:

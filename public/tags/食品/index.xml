@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>食品 on baoheng | pallet</title>
-    <link>http://baohengpallet.com/tags/%E9%A3%9F%E5%93%81/</link>
-    <description>Recent content in 食品 on baoheng | pallet</description>
+    <title>食品 on Baoheng | Pallet</title>
+    <link>http://localhost:1313/tags/%E9%A3%9F%E5%93%81/</link>
+    <description>Recent content in 食品 on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 08 Sep 2022 11:07:10 +0600</lastBuildDate>
-    <atom:link href="http://baohengpallet.com/tags/%E9%A3%9F%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%A3%9F%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>客户案例：清源饮品的托盘焕新记</title>
-      <link>http://baohengpallet.com/blog/blog-post-1/</link>
+      <link>http://localhost:1313/blog/blog-post-1/</link>
       <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://baohengpallet.com/blog/blog-post-1/</guid>
+      <guid>http://localhost:1313/blog/blog-post-1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;清源饮品&lt;/strong&gt;——华东区知名饮料企业，日产数万瓶矿泉水和果汁。走进他们的车间：叉车在产线与仓库间穿梭不息，&lt;strong&gt;日均15,000次托盘流转&lt;/strong&gt;是这里的常态。&lt;/p&gt;&#xA;&lt;h3 id=&#34;公司的托盘困境&#34;&gt;公司的托盘困境&lt;/h3&gt;</description>
     </item>
   </channel>
