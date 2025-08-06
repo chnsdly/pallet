@@ -11,37 +11,37 @@ products:
   items:
     - name: "网格双面型-1111"
       specs: "尺寸:110*110*14cm | 动载:吨"
-      image: "images/products/open-2/Re-1111.jpg" 
+      image: "images/products/open-2/re-1111.jpg" 
 
     - name: "网格双面型-1210"
       specs: "尺寸:120*100*14cm | 动载:2吨"
-      image: "images/products/open-2/Re-1210.jpg" 
+      image: "images/products/open-2/re-1210.jpg" 
 
     - name: "网格双面型-1211"
       specs: "尺寸:120*110*14cm | 动载:2吨"
-      image: "images/products/open-2/Re-1211.jpg" 
+      image: "images/products/open-2/re-1211.jpg" 
     
     - name: "网格双面型-1212"
       specs: "尺寸:120*120*14cm | 动载:2吨"
-      image: "images/products/open-2/Re-1212.jpg" 
+      image: "images/products/open-2/re-1212.jpg" 
 
     - name: "网格双面型-1311"
       specs: "尺寸:130*110*14cm | 动载:2吨"
-      image: "images/products/open-2/Re-1311.jpg" 
+      image: "images/products/open-2/re-1311.jpg" 
 
     - name: "网格双面型-1412"
       specs: "尺寸:140*120*14cm | 动载:2吨"
-      image: "images/products/open-2/Re-1412.jpg" 
+      image: "images/products/open-2/re-1412.jpg" 
        
     - name: "网格双面型-1512"
       specs: "尺寸:150*120*14cm | 动载:2吨"
-      image: "images/products/open-2/Re-1512.jpg" 
+      image: "images/products/open-2/re-1512.jpg" 
     
     - name: "网格双面型-1513"
       specs: "尺寸:150*130*14cm | 动载:2吨"
-      image: "images/products/open-2/Re-1513.jpg" 
+      image: "images/products/open-2/re-1513.jpg" 
 
     - name: "网格双面型-1614"
       specs: "尺寸:160*140*14cm | 动载:2吨"
-      image: "images/products/open-2/Re-1614.jpg" 
+      image: "images/products/open-2/re-1614.jpg" 
 ---
