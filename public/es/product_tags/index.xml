@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product_tags on Baoheng | Pallet</title>
-    <link>http://localhost:1313/es/product_tags/</link>
+    <link>https://baohengpallet.com/es/product_tags/</link>
     <description>Recent content in Product_tags on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <atom:link href="http://localhost:1313/es/product_tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baohengpallet.com/es/product_tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
