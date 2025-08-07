@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/slider-bg.webp"
   bg_overlay: true
   title: "做物流行业的永动基座  为世界搬运更多可能"
   content: ""

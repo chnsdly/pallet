@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/slider-bg.webp"
   bg_overlay: true
   title: "Das ewige Fundament der Logistik – mehr Möglichkeiten für die Welt bewegen"
   content: ""

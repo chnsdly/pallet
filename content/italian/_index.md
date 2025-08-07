@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/slider-bg.webp"
   bg_overlay: true
   title: "La base perpetua della logistica – trasportiamo più possibilità al mondo"
   content: ""

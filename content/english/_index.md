@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/slider-bg.webp"
   bg_overlay: true
   title: "Building the perpetual foundation of logistics — moving more possibilities for the world"
   content: ""
