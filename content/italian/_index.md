@@ -17,27 +17,27 @@ products:
   items:
     - title: "Gamma completa"
       content: "Include pallet a piano pieno, a 3 longheroni / perimetrali, per catena del freddo e merci pericolose."
-      image: "images/img-1.jpg"
+      image: "images/img-1.webp"
 
     - title: "Materie prime HDPE/PP"
       content: "Granuli di prima scelta, alta tenacità, resistenti al freddo, conformi alle norme ambientali."
-      image: "images/img-3.jpg"
+      image: "images/img-3.webp"
 
     - title: "Reparto produttivo"
       content: "Linee a iniezione 24 h + tracciabilità per garantire lotti costanti."
-      image: "images/img-5.jpg"
+      image: "images/img-5.webp"
 
     - title: "Dimostrazione di impilaggio"
       content: "Nessuna deformazione, migliore utilizzo dello spazio di magazzino."
-      image: "images/img-4.jpg"
+      image: "images/img-4.webp"
 
     - title: "Stock pronto"
       content: "Centro di 6 000 m² con pallet sempre disponibili."
-      image: "images/img-2.jpg"
+      image: "images/img-2.webp"
 
     - title: "Carico e spedizione rapidi"
       content: "Carico veloce in container per avviare subito la spedizione."
-      image: "images/img-6.jpg"
+      image: "images/img-6.webp"
 
 scenario:
   enable: false

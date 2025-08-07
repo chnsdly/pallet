@@ -19,27 +19,27 @@ products:
   items:
     - title: "全系列产品"
       content: "涵盖平板、川字/田字、冷链与危化品等专用托盘。"
-      image: "images/img-1.jpg"
+      image: "images/img-1.webp"
 
     - title: "生产原料HDPE/PP"
       content: "精选一级颗粒料，韧性高、耐低温，符合环保要求。"
-      image: "images/img-3.jpg"
+      image: "images/img-3.webp"
 
     - title: "生产车间"
       content: "24h注塑线 + 质量追溯系统，确保批次质量稳定可控。"
-      image: "images/img-5.jpg"
+      image: "images/img-5.webp"
 
     - title: "码垛应用展示"
       content: "堆码不变形，仓容利用率提升。"
-      image: "images/img-4.jpg"
+      image: "images/img-4.webp"
 
     - title: "现货库存"
       content: "6 000 ㎡ 存储中心，常备现货托盘。"
-      image: "images/img-2.jpg"
+      image: "images/img-2.webp"
 
     - title: "快速装车发运"
       content: "快速装箱，确保订单即刻启程。"
-      image: "images/img-6.jpg"
+      image: "images/img-6.webp"
 
 
 

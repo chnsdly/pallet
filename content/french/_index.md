@@ -17,27 +17,27 @@ products:
   items:
     - title: "Gamme complète"
       content: "Inclut palettes pleines, trois-semelles / périmétriques, froid et produits dangereux."
-      image: "images/img-1.jpg"
+      image: "images/img-1.webp"
 
     - title: "Matière première HDPE/PP vierge"
       content: "Granulés de 1ʳᵉ qualité, grande ténacité, résistance au froid, conformes aux normes environnementales."
-      image: "images/img-3.jpg"
+      image: "images/img-3.webp"
 
     - title: "Atelier de production"
       content: "Lignes d’injection 24 h/24 + traçabilité pour garantir la stabilité de chaque lot."
-      image: "images/img-5.jpg"
+      image: "images/img-5.webp"
 
     - title: "Démonstration d’empilage"
       content: "Aucune déformation, meilleure utilisation du volume d’entrepôt."
-      image: "images/img-4.jpg"
+      image: "images/img-4.webp"
 
     - title: "Stock disponible"
       content: "Centre logistique de 6 000 m² avec palettes en stock permanent."
-      image: "images/img-2.jpg"
+      image: "images/img-2.webp"
 
     - title: "Chargement & expédition rapides"
       content: "Chargement express pour déclencher l’expédition sans délai."
-      image: "images/img-6.jpg"
+      image: "images/img-6.webp"
 
 scenario:
   enable: false

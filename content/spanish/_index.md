@@ -17,27 +17,27 @@ products:
   items:
     - title: "Gama completa de productos"
       content: "Incluye palés de cubierta lisa, de tres/base perimetral, para cadena de frío y para mercancías peligrosas."
-      image: "images/img-1.jpg"
+      image: "images/img-1.webp"
 
     - title: "Materia prima HDPE/PP"
       content: "Gránulos de primera calidad, gran tenacidad, resistencia a bajas temperaturas y conformidad medioambiental."
-      image: "images/img-3.jpg"
+      image: "images/img-3.webp"
 
     - title: "Taller de producción"
       content: "Líneas de inyección 24 h y sistema de trazabilidad para garantizar la estabilidad de cada lote."
-      image: "images/img-5.jpg"
+      image: "images/img-5.webp"
 
     - title: "Demostración de apilado"
       content: "Apilado sin deformación, mayor aprovechamiento del espacio."
-      image: "images/img-4.jpg"
+      image: "images/img-4.webp"
 
     - title: "Stock disponible"
       content: "Centro de 6 000 m² con palés en inventario permanente."
-      image: "images/img-2.jpg"
+      image: "images/img-2.webp"
 
     - title: "Carga y envío rápidos"
       content: "Carga rápida de contenedores para que los pedidos salgan de inmediato."
-      image: "images/img-6.jpg"
+      image: "images/img-6.webp"
 
 scenario:
   enable: false

@@ -17,27 +17,27 @@ products:
   items:
     - title: "Komplettes Sortiment"
       content: "Umfasst Volldeck-, Drei-/Rahmen-, Kühlketten- und Gefahrgutpaletten."
-      image: "images/img-1.jpg"
+      image: "images/img-1.webp"
 
     - title: "HDPE/PP-Neuware"
       content: "Erstklassiges Granulat, hohe Zähigkeit, kältebeständig und umweltkonform."
-      image: "images/img-3.jpg"
+      image: "images/img-3.webp"
 
     - title: "Fertigungswerk"
       content: "24-h Spritzgießlinien plus Rückverfolgung sichern chargenreine Qualität."
-      image: "images/img-5.jpg"
+      image: "images/img-5.webp"
 
     - title: "Stapeldemo"
       content: "Verformungsfrei stapelbar, bessere Lagerraumnutzung."
-      image: "images/img-4.jpg"
+      image: "images/img-4.webp"
 
     - title: "Lagerbestand"
       content: "6 000 m² Zentrallager mit kontinuierlichem Palettenvorrat."
-      image: "images/img-2.jpg"
+      image: "images/img-2.webp"
 
     - title: "Schnelles Verladen & Versand"
       content: "Schnelles Container-Loading – Aufträge gehen sofort auf Reise."
-      image: "images/img-6.jpg"
+      image: "images/img-6.webp"
 
 scenario:
   enable: false
