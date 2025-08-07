@@ -126,19 +126,19 @@ funfacts:
   testimonial_slider:
     # 亚洲案例（更聚焦实际应用）
     - name: "田中健一"
-      image: "images/clients/avater-1.jpg"
+      image: "images/clients/avater-1.webp"
       designation: "日本通运物流经理"
       content: "宝恒的托盘陪我们跑东京到大阪差不多三年了。最明显的变化就是货滑动的事几乎没再发生——精密仪器的损坏率掉到 0.2% 左右，每年光包装和返工就省下两千多万日元，真心划算。"
       
     # 欧洲案例（突出标准认证）
     - name: "Hans Müller"
-      image: "images/clients/avater-2.jpg"
+      image: "images/clients/avater-2.webp"
       designation: "德迅国际货运设施主管"
       content: "我们把码头里的旧托盘全换成宝恒之后，周转效率提升了。冬天港口零下二十多度它也不变脆，尺寸还跟欧洲主流系统全兼容，五年下来一块都没报废，省了不少心。"
       
     # 非洲案例（强调环境适应性）
     - name: "Kwame Nkrumah"
-      image: "images/clients/avater-3.jpg"
+      image: "images/clients/avater-3.webp"
       designation: "埃及亚历山大港运营总监"
       content: "海风盐雾对设备挺狠的，可宝恒的耐腐蚀托盘扛住了。加了防滑钉以后，潮湿甲板也不跑位，重型机械压来压去都没问题，年损耗率从原来 5% 掉到 1.2%，效果确实不错。"
 

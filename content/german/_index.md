@@ -95,17 +95,17 @@ funfacts:
 
   testimonial_slider:
     - name: "田中健一"
-      image: "images/clients/avater-1.jpg"
+      image: "images/clients/avater-1.webp"
       designation: "Logistikmanager, Nippon Express"
       content: "Mit Baoheng-Paletten gibt es praktisch keine Verrutscher mehr – die Schadensquote an Präzisionsgeräten liegt nur noch bei 0,2 %, spart jährlich über 20 Mio. ¥."
 
     - name: "Hans Müller"
-      image: "images/clients/avater-2.jpg"
+      image: "images/clients/avater-2.webp"
       designation: "Anlagenleiter, Kühne + Nagel"
       content: "Seit dem Umstieg auf Baoheng stieg die Umschlagleistung. Selbst bei –20 °C bleiben sie zäh; in fünf Jahren keine Ausfälle."
 
     - name: "Kwame Nkrumah"
-      image: "images/clients/avater-3.jpg"
+      image: "images/clients/avater-3.webp"
       designation: "Betriebsleiter, Hafen Alexandria"
       content: "Salznebel ist hart, doch die korrosionsfesten Baoheng-Paletten halten stand. Der Verlust sank von 5 % auf 1,2 %."
 

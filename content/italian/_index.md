@@ -95,17 +95,17 @@ funfacts:
 
   testimonial_slider:
     - name: "田中健一"
-      image: "images/clients/avater-1.jpg"
+      image: "images/clients/avater-1.webp"
       designation: "Responsabile logistica, Nippon Express"
       content: "Con i pallet Baoheng gli scivolamenti sono spariti; i danni ai dispositivi di precisione sono scesi allo 0,2 %, risparmiando oltre 20 milioni di yen l’anno."
 
     - name: "Hans Müller"
-      image: "images/clients/avater-2.jpg"
+      image: "images/clients/avater-2.webp"
       designation: "Responsabile impianti, Kuehne + Nagel"
       content: "Dopo il passaggio a Baoheng l’efficienza in banchina è salita. A –20 °C restano integri; in cinque anni nessun pallet scartato."
 
     - name: "Kwame Nkrumah"
-      image: "images/clients/avater-3.jpg"
+      image: "images/clients/avater-3.webp"
       designation: "Direttore operativo, Porto di Alessandria"
       content: "La nebbia salina è aggressiva, ma i pallet anticorrosione Baoheng resistono. Il tasso di perdita è sceso dal 5 % all’1,2 %."
 

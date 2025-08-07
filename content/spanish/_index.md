@@ -95,17 +95,17 @@ funfacts:
 
   testimonial_slider:
     - name: "田中健一"
-      image: "images/clients/avater-1.jpg"
+      image: "images/clients/avater-1.webp"
       designation: "Gerente de logística, Nippon Express"
       content: "Los palés de Baoheng llevan casi tres años en nuestra ruta Tokio-Osaka. Lo más evidente es que los deslizamientos de carga prácticamente desaparecieron: la tasa de daños en equipos de precisión cayó a alrededor del 0,2 %, lo que ahorra más de 20 millones de yenes al año solo en embalaje y retrabajos."
 
     - name: "Hans Müller"
-      image: "images/clients/avater-2.jpg"
+      image: "images/clients/avater-2.webp"
       designation: "Supervisor de instalaciones, Kuehne + Nagel"
       content: "Después de reemplazar todos los palés del muelle por los de Baoheng, nuestra eficiencia de rotación mejoró. En el puerto se alcanzan –20 °C en invierno y no se vuelven frágiles; las dimensiones son totalmente compatibles con los sistemas europeos. En cinco años no hemos descartado ni uno solo."
 
     - name: "Kwame Nkrumah"
-      image: "images/clients/avater-3.jpg"
+      image: "images/clients/avater-3.webp"
       designation: "Director de operaciones, Puerto de Alejandría"
       content: "La niebla salina marina es dura con el equipo, pero los palés anticorrosión de Baoheng aguantan. Con los clavos antideslizantes no se mueven ni en cubiertas húmedas, y soportan sin problemas el peso de maquinaria pesada. La tasa anual de pérdidas bajó del 5 % al 1,2 %."
 

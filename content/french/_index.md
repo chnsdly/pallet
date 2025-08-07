@@ -95,17 +95,17 @@ funfacts:
 
   testimonial_slider:
     - name: "田中健一"
-      image: "images/clients/avater-1.jpg"
+      image: "images/clients/avater-1.webp"
       designation: "Responsable logistique, Nippon Express"
       content: "Avec les palettes Baoheng, plus de glissements et le taux de casse de nos appareils de précision est tombé à 0,2 %. Nous économisons plus de 20 millions ¥ par an."
 
     - name: "Hans Müller"
-      image: "images/clients/avater-2.jpg"
+      image: "images/clients/avater-2.webp"
       designation: "Chef d’exploitation, Kuehne + Nagel"
       content: "Depuis que nous avons adopté Baoheng, le débit des quais s’est amélioré. Même à –20 °C, elles restent intactes ; cinq ans d’usage sans mise au rebut."
 
     - name: "Kwame Nkrumah"
-      image: "images/clients/avater-3.jpg"
+      image: "images/clients/avater-3.webp"
       designation: "Directeur des opérations, Port d’Alexandrie"
       content: "Le brouillard salin n’affecte pas ces palettes anticorrosion. Avec les clous antidérapants, rien ne bouge ; le taux de casse est passé de 5 % à 1,2 %."
 

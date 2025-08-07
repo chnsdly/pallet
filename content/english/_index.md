@@ -95,17 +95,17 @@ funfacts:
 
   testimonial_slider:
     - name: "田中健一"
-      image: "images/clients/avater-1.jpg"
+      image: "images/clients/avater-1.webp"
       designation: "Logistics Manager, Nippon Express"
       content: "Baoheng pallets have run the Tokyo–Osaka route for almost three years. Load slippage is virtually gone — damage on precision equipment is down to about 0.2 %, saving us over ¥20 million a year in packaging and rework."
 
     - name: "Hans Müller"
-      image: "images/clients/avater-2.jpg"
+      image: "images/clients/avater-2.webp"
       designation: "Facility Lead, Kuehne + Nagel"
       content: "After replacing all quay pallets with Baoheng, our turnaround improved. They stay tough even at –20 °C and fit European systems perfectly; not a single write-off in five years."
 
     - name: "Kwame Nkrumah"
-      image: "images/clients/avater-3.jpg"
+      image: "images/clients/avater-3.webp"
       designation: "Operations Director, Port of Alexandria"
       content: "Sea-salt mist is brutal, yet Baoheng’s corrosion-resistant pallets hold up. With anti-slip pins, nothing slides on wet decks. Heavy machinery rolls over them daily — loss rate dropped from 5 % to 1.2 %."
 
