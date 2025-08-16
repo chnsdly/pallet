@@ -11,6 +11,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 <html lang="{{ site.LanguageCode | default `en-US` }}" itemscope itemtype="http://schema.org/WebPage">
 
 <head>
+	{{ partial "gtm-head.html" . }}
 	{{ partial "head.html" . }}
 
 	<!-- cache partial only in production -->
@@ -22,6 +23,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 </head>
 
 <body>
+	{{ partial "gtm-body.html" . }}
 	<!-- cache partial only in production -->
 	{{ partial "header.html" . }}
 	{{ if hugo.IsProduction }}
@@ -48,7 +50,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ partial "script.html" . }}
 	{{ end }}
 	{{ partial "tawk.html" . }}
-	{{ partial "ga4.html" . }}
+	
 </body>
 
 </html>

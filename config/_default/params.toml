@@ -135,5 +135,5 @@ title = "WhatsApp"
 icon = "fab fa-whatsapp" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
 
-[analytics]
-ga4 = "G-WE4HGDHNP4"
+[gtm]
+id = "GTM-NT98P72W"
