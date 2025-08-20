@@ -17,27 +17,27 @@ products:
   items:
     - title: "Full Product Range"
       content: "Covers solid-deck, three-/perimeter-base, cold-chain and hazardous-goods pallets."
-      image: "images/img-1.webp"
+      image: "images/img-1.jpg"
 
     - title: "Virgin HDPE/PP"
       content: "First-grade pellets, high toughness, low-temperature resistant and eco-compliant."
-      image: "images/img-3.webp"
+      image: "images/img-3.jpg"
 
     - title: "Production Workshop"
       content: "24 h injection lines plus traceability to keep every batch stable and controlled."
-      image: "images/img-5.webp"
+      image: "images/img-5.jpg"
 
     - title: "Stacking Showcase"
       content: "No deformation during stacking, higher warehouse utilisation."
-      image: "images/img-4.webp"
+      image: "images/img-4.jpg"
 
     - title: "Ready Stock"
       content: "6 000 m² distribution hub with pallets always in stock."
-      image: "images/img-2.webp"
+      image: "images/img-2.jpg"
 
     - title: "Fast Loading & Dispatch"
       content: "Rapid container loading ensures orders depart immediately."
-      image: "images/img-6.webp"
+      image: "images/img-6.jpg"
 
 scenario:
   enable: false
