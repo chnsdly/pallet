@@ -2445,3 +2445,15 @@ header .navbar-default .navbar-nav li a:hover {
   -webkit-line-clamp: 2;
   overflow: hidden;
   line-height: 1.5; }
+
+/* 语言栏加了一个label标签，解决Lighthouse的评分低问题 */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0; }

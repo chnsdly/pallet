@@ -55,6 +55,7 @@
           <li>
             <!-- Language List -->
             {{ if .IsTranslated }}
+            <label for="select-language" class="sr-only">Language</label>
             <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
               {{ $siteLanguages := site.Languages}}
               {{ $pageLang := .Page.Lang}}
