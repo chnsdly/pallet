@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- banner -->
+<!-- banner
 {{ with .Params.banner }}
 {{ if .enable }}
 <section class="slider {{ if .bg_overlay }}overly{{ end }}" style="background-image: url('{{ .bg_image | relURL }}');">
@@ -22,7 +22,41 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /banner -->
+/banner -->
+{{ with .Params.banner }}
+{{ if .enable }}
+<section class="slider hero {{ if .bg_overlay }}hero--overlay{{ end }}">
+
+  <div class="hero__bgwrap">
+    {{ partial "responsive-image.html" (dict
+        "ctx"   $
+        "src"   .bg_image    
+        "alt"   ""
+        "class" "hero__bg"
+        "fetch" "high"
+        "sizes" "100vw"
+        "w"     (slice 480 640 960 1280)
+        "lqip"  true
+    ) }}
+  </div>
+
+  <div class="container">
+    <div class="row"><div class="col-md-12">
+      <div class="block">
+        {{ with .title }}<h1 style="letter-spacing:2px;">{{ . | markdownify }}</h1>{{ end }}
+        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        {{ with .button }}{{ if .enable }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-main">{{ .label }}</a>
+        {{ end }}{{ end }}
+      </div>
+    </div></div>
+  </div>
+
+</section>
+{{ end }}
+{{ end }}
+
+
 
 
 

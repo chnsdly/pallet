@@ -189,3 +189,40 @@
     transform: translateY(-2px);
   }
 
+
+/* 首页大图修改图片通道，样式 */
+  .hero{
+  position: relative;
+  overflow: hidden;
+  min-height: 60vh;               /* 可按需 70/80vh */
+  display: flex;
+  align-items: center;
+}
+.hero__bgwrap{ position:absolute; inset:0; }
+
+/* 让 <picture> 自身也铺满，LQIP 背景才可见 */
+.hero__bgwrap picture{
+  position:absolute; inset:0;
+  width:100%; height:100%;
+  display:block;
+}
+
+/* 真正的铺满由 <img class="hero__bg"> 实现 */
+.hero__bg{
+  position:absolute; inset:0;
+  width:100%; height:100%;
+  object-fit:cover;
+}
+
+/* 可选遮罩：front matter 里 bg_overlay: true 时生效 */
+.hero--overlay::after{
+  content:""; position:absolute; inset:0;
+  background: rgba(0,0,0,.35);   /* 需要更深可调 */
+  pointer-events:none;
+}
+
+/* 文案层 */
+.hero .block{
+  position:relative; z-index:1;
+  color:#fff; text-align:center; padding:2rem 0;
+}
