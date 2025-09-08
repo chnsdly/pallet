@@ -12,7 +12,7 @@ Minimal WhatsApp Icon-only FAB (v1.3, official-like)
 {{- $siteTitle := .Site.Title | default "" -}}
 {{- $pageTitle := .Title | default $siteTitle -}}
 {{- $pageURL := .Permalink | default (print .Site.BaseURL) -}}
-{{- $tpl := $cfg.messageTpl | default "Hi, I’m interested in {title} ({url})" -}}
+{{- $tpl := $cfg.messageTpl -}}
 {{- $msg := $tpl | replace "{site}" $siteTitle | replace "{title}" $pageTitle | replace "{url}" $pageURL -}}
 {{- $label := $cfg.label | default "Chat on WhatsApp" -}}
 {{- $href := printf "https://wa.me/%s?text=%s" $phone (urlquery $msg) -}}
