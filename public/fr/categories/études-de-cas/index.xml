@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Études De Cas on Baoheng | Pallet</title>
+    <link>http://localhost:1313/fr/categories/%C3%A9tudes-de-cas/</link>
+    <description>Recent content in Études De Cas on Baoheng | Pallet</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 08 Sep 2022 11:07:10 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/%C3%A9tudes-de-cas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Étude de cas | Qingyuan Boissons × Palettes Plastiques Baoheng</title>
+      <link>http://localhost:1313/fr/blog/blog-post-1/</link>
+      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/fr/blog/blog-post-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Qingyuan Boissons&lt;/strong&gt; — entreprise de boissons renommée de la Chine de l’Est.&lt;br&gt;&#xA;Capacité de production : plusieurs dizaines de milliers de bouteilles/jour ; plus de &lt;strong&gt;15 000 rotations de palettes&lt;/strong&gt; quotidiennes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

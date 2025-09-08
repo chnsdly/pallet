@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blasformpaletten on Baoheng | Pallet</title>
+    <link>http://localhost:1313/de/product_categories/blasformpaletten/</link>
+    <description>Recent content in Blasformpaletten on Baoheng | Pallet</description>
+    <generator>Hugo</generator>
+    <language>de-at</language>
+    <atom:link href="http://localhost:1313/de/product_categories/blasformpaletten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blasformpaletten</title>
+      <link>http://localhost:1313/de/products/blow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/products/blow/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

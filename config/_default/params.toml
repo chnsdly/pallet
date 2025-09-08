@@ -47,6 +47,13 @@ action = "https://getform.io/f/avryjoda"
 # Image on custom success page `/message_sent.html`
 success_image = "images/paper-plane.svg"
 
+[whatsapp]
+enabled = true
+phone = "8617861616766"
+label = "Chat on WhatsApp" # 仅用于无障碍 aria-label / title 提示
+messageTpl = "Hi, I’m interested in {title} ({url})"
+
+
 
 # Preloader
 [preloader]

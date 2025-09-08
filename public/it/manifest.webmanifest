@@ -1,0 +1,54 @@
+{
+  "name": "Baoheng | Pallet",
+  "short_name": "Baoheng | Pallet",
+  "lang": "it-IT",
+  "theme_color": "#655e7a",
+  "background_color": "#fff",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu_de8b056298c0cd5e.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_b7219f47e1af3511.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_ff83a8670dbe4470.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_9f04bc4e8cd680d.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_e584e650879cb088.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_5bf29fcb325bf130.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  
+  
+  "display": "standalone",
+  "start_url": "/it?utm_source=web_app_manifest"
+}
