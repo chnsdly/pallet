@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Baoheng | Pallet</title>
-    <link>http://localhost:1313/de/categories/</link>
+    <link>https://www.baohengpallet.com/de/categories/</link>
     <description>Recent content in Categories on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <lastBuildDate>Thu, 08 Sep 2022 11:07:10 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.baohengpallet.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kundenreferenzen</title>
-      <link>http://localhost:1313/de/categories/kundenreferenzen/</link>
+      <link>https://www.baohengpallet.com/de/categories/kundenreferenzen/</link>
       <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/categories/kundenreferenzen/</guid>
+      <guid>https://www.baohengpallet.com/de/categories/kundenreferenzen/</guid>
       <description></description>
     </item>
   </channel>

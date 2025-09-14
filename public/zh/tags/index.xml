@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Baoheng | Pallet</title>
-    <link>http://localhost:1313/zh/tags/</link>
+    <link>https://www.baohengpallet.com/zh/tags/</link>
     <description>Recent content in Tags on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 08 Sep 2022 11:07:10 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.baohengpallet.com/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>食品</title>
-      <link>http://localhost:1313/zh/tags/%E9%A3%9F%E5%93%81/</link>
+      <link>https://www.baohengpallet.com/zh/tags/%E9%A3%9F%E5%93%81/</link>
       <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E9%A3%9F%E5%93%81/</guid>
+      <guid>https://www.baohengpallet.com/zh/tags/%E9%A3%9F%E5%93%81/</guid>
       <description></description>
     </item>
   </channel>
