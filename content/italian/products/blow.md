@@ -1,6 +1,7 @@
 ---
-title: "Pallet soffiati"
-description: "Stampaggio a soffiaggio monoblocco con colonne interne di rinforzo per una lunga durata"
+title: "Pallet Soffiati · Soluzioni Resistenti in Pallet di Plastica HDPE"
+description: "I pallet soffiati sono stampati in un unico pezzo con HDPE, garantendo robustezza e durata per applicazioni pesanti e leggere. Ampiamente utilizzati in magazzini, logistica ed esportazioni, soddisfano le esigenze di settori come alimentare e chimico."
+
 image : "images/products/blow/blow-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["Pallet soffiati"]

@@ -1,13 +1,13 @@
 ---
 title: "Shandong Baoheng Produits Plastiques Cie., Ltd."
-description: ""
+description: "Nous sommes spécialisés dans la fabrication de produits plastiques, destinés aux secteurs de l’entreposage, de la logistique, de la transformation alimentaire et de l’industrie chimique. Nos produits, de qualité constante, sont exportés à l’échelle mondiale."
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
 
 about:
   enable: true
-  image: "/images/company/company.jpg"
+  image: "/images/company/company3.jpg"
   title: "Fabrication professionnelle, engagement qualité"
   content: |
     <br/>**Système de fabrication mature**

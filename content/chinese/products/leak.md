@@ -1,7 +1,7 @@
 ---
-title: "防渗漏托盘危化品托盘"
+title: "防渗漏、危化品托盘"
 description: "耐油品，耐化学品"
-image : "images/products/leakproof/lp-main.jpg"
+list_image : "images/products/leakproof/lp-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["防渗漏托盘危化品托盘"]
 weight: 8

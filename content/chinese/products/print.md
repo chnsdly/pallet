@@ -2,7 +2,7 @@
 title: "印刷机专用托盘"
 description: "印刷机专用"
 bg_image: "images/feature-bg.jpg"
-image : "images/products/print/main.jpg"
+list_image: "images/products/print/main.jpg"
 product_categories: ["印刷机专用托盘"]
 weight: 7
 draft: false

@@ -1,4 +1,4 @@
-<footer class="footer">
+<!-- <footer class="footer">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -14,3 +14,116 @@
     </div>
   </div>
 </footer>
+-->
+<footer class="footer">
+  <div class="container">
+    {{/* 先把 footer 菜单分成“内链/外链”两组 */}}
+    {{- $internal := slice -}}
+    {{- $external := slice -}}
+    {{- range site.Menus.footer -}}
+      {{- $href := .URL -}}
+      {{- $isExternal := or (or (hasPrefix $href "http://") (hasPrefix $href "https://")) (hasPrefix $href "//") -}}
+      {{- if or $isExternal (.Params.external) -}}
+        {{- $external = $external | append . -}}
+      {{- else -}}
+        {{- $internal = $internal | append . -}}
+      {{- end -}}
+    {{- end -}}
+
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h4 class="footer-title">{{ i18n "footer-links" | default "Site Navigation" }}</h4>
+        <ul class="footer-menu">
+          {{- range $internal -}}
+            {{- $href := .URL -}}
+            {{- /* 内链：语言感知链接 */ -}}
+            <li>
+              <a href="{{ $href | relLangURL }}">{{ .Name }}</a>
+            </li>
+          {{- end -}}
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-title">{{ i18n "footer-external" | default "Other Product Series" }}</h4>
+        <ul class="footer-menu">
+          {{- range $external -}}
+            {{- $href := .URL -}}
+            {{- /* 外链：保持原样，默认新窗口并加 noopener */ -}}
+            <li>
+              <a href="{{ $href | safeURL }}"
+                 target="{{ default "_blank" .Params.target }}"
+                 rel="{{ default "noopener" .Params.rel }}">{{ .Name }}</a>
+            </li>
+          {{- end -}}
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p class="copyright">{{ site.Params.copyright | markdownify }}</p>
+    </div>
+  </div>
+</footer>
+<style>
+  /* ===== Footer (no tokens) ===== */
+.footer {
+  padding: 32px 0;
+  background: #e9edf3;              /* 深色背景 */
+  color: #101216;                   /* 文字颜色 */
+  border-top: 1px solid rgba(255,255,255,0.08);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.footer a {
+  color: inherit;
+  text-decoration: none;
+}
+.footer a:hover,
+.footer a:focus {
+  text-decoration: underline;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+@media (min-width: 768px) {
+  .footer-grid {
+    grid-template-columns: 1fr 1fr; /* 左：站内导航；右：外部链接 */
+  }
+}
+
+.footer-col { min-width: 0; }
+
+.footer-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 8px 0;
+  color: #101216;
+}
+
+.footer-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.footer-menu li { margin: 6px 0; }
+
+.footer-bottom {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+/* 可选的可访问性细节 */
+.footer a:focus-visible {
+  outline: 2px solid #8a
+
+
+</style>

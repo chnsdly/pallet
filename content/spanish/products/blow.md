@@ -1,6 +1,7 @@
 ---
-title: "Palés soplados"
-description: "Moldeo por soplado en una sola pieza con columnas internas de refuerzo para una larga vida útil"
+title: "Palets Soplados · Soluciones Duraderas en Palets de Plástico HDPE"
+description: "Los palets soplados se fabrican en una sola pieza de HDPE, ofreciendo resistencia y durabilidad para aplicaciones tanto pesadas como ligeras. Se utilizan ampliamente en almacenamiento, logística y exportación, cubriendo las necesidades de industrias como la alimentaria y la química."
+
 image : "images/products/blow/blow-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["Palés soplados"]

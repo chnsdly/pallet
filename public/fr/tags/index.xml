@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Baoheng | Pallet</title>
-    <link>https://www.baohengpallet.com/fr/tags/</link>
+    <link>http://localhost:1313/fr/tags/</link>
     <description>Recent content in Tags on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 08 Sep 2022 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://www.baohengpallet.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agroalimentaire</title>
-      <link>https://www.baohengpallet.com/fr/tags/agroalimentaire/</link>
+      <link>http://localhost:1313/fr/tags/agroalimentaire/</link>
       <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>https://www.baohengpallet.com/fr/tags/agroalimentaire/</guid>
+      <guid>http://localhost:1313/fr/tags/agroalimentaire/</guid>
       <description></description>
     </item>
   </channel>

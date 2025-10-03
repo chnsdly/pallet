@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pallet Products on Baoheng | Pallet</title>
-    <link>https://www.baohengpallet.com/products/</link>
-    <description>Recent content in Pallet Products on Baoheng | Pallet</description>
+    <title>Plastic Pallet Series | Heavy-Duty, Lightweight, Nestable, Grid-Type &amp; Flat-Type HDPE Pallets on Baoheng | Pallet</title>
+    <link>http://localhost:1313/products/</link>
+    <description>Recent content in Plastic Pallet Series | Heavy-Duty, Lightweight, Nestable, Grid-Type &amp; Flat-Type HDPE Pallets on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="https://www.baohengpallet.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nestable Nine-Leg Grid Pallet</title>
-      <link>https://www.baohengpallet.com/products/open-9leg/</link>
+      <link>http://localhost:1313/products/open-9leg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/open-9leg/</guid>
+      <guid>http://localhost:1313/products/open-9leg/</guid>
       <description></description>
     </item>
     <item>
       <title>Three-Runner Grid Pallet</title>
-      <link>https://www.baohengpallet.com/products/open-triple/</link>
+      <link>http://localhost:1313/products/open-triple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/open-triple/</guid>
+      <guid>http://localhost:1313/products/open-triple/</guid>
       <description></description>
     </item>
     <item>
       <title>Perimeter-Base Grid Pallet</title>
-      <link>https://www.baohengpallet.com/products/open-grid/</link>
+      <link>http://localhost:1313/products/open-grid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/open-grid/</guid>
+      <guid>http://localhost:1313/products/open-grid/</guid>
       <description></description>
     </item>
     <item>
       <title>Reversible Double-Face Grid Pallet</title>
-      <link>https://www.baohengpallet.com/products/open-rever/</link>
+      <link>http://localhost:1313/products/open-rever/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/open-rever/</guid>
+      <guid>http://localhost:1313/products/open-rever/</guid>
       <description></description>
     </item>
     <item>
       <title>Solid-Deck Pallet</title>
-      <link>https://www.baohengpallet.com/products/solid/</link>
+      <link>http://localhost:1313/products/solid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/solid/</guid>
+      <guid>http://localhost:1313/products/solid/</guid>
       <description></description>
     </item>
     <item>
-      <title>Blow-Moulded Pallets</title>
-      <link>https://www.baohengpallet.com/products/blow/</link>
+      <title>Blow Molded Pallets · Durable HDPE Plastic Pallet Solutions</title>
+      <link>http://localhost:1313/products/blow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/blow/</guid>
+      <guid>http://localhost:1313/products/blow/</guid>
       <description></description>
     </item>
     <item>
       <title>Dedicated Printing-Press Pallet</title>
-      <link>https://www.baohengpallet.com/products/print/</link>
+      <link>http://localhost:1313/products/print/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/print/</guid>
+      <guid>http://localhost:1313/products/print/</guid>
       <description></description>
     </item>
     <item>
       <title>Spill Containment Pallets for Hazardous Materials</title>
-      <link>https://www.baohengpallet.com/products/leak/</link>
+      <link>http://localhost:1313/products/leak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/leak/</guid>
+      <guid>http://localhost:1313/products/leak/</guid>
       <description></description>
     </item>
     <item>
       <title>Box Pallets</title>
-      <link>https://www.baohengpallet.com/products/box/</link>
+      <link>http://localhost:1313/products/box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/products/box/</guid>
+      <guid>http://localhost:1313/products/box/</guid>
       <description></description>
     </item>
   </channel>

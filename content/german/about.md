@@ -1,13 +1,13 @@
 ---
 title: "Shandong Baoheng Kunststoffprodukte GmbH"
-description: ""
+description: "Wir sind auf die Herstellung von Kunststoffprodukten spezialisiert, die in den Bereichen Lagerhaltung, Logistik, Lebensmittelverarbeitung und chemische Industrie eingesetzt werden. Unsere Produkte zeichnen sich durch gleichbleibende Qualität aus und werden weltweit exportiert."
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
 
 about:
   enable: true
-  image: "/images/company/company.jpg"
+  image: "/images/company/company3.jpg"
   title: "Professionelle Fertigung, Qualitätsversprechen"
   content: |
     <br/>**Etabliertes Fertigungssystem**

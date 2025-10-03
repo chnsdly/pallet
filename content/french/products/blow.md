@@ -1,6 +1,7 @@
 ---
-title: "Palettes soufflées"
-description: "Soufflage monobloc avec colonnes de renfort internes pour une longue durée de vie"
+title: "Palettes Soufflées · Solutions Durables en Palettes Plastiques HDPE"
+description: "Les palettes soufflées sont fabriquées en une seule pièce à partir de HDPE, solides et durables, adaptées aux applications lourdes comme légères. Elles sont largement utilisées dans l’entreposage, la logistique et l’exportation, répondant aux besoins des secteurs alimentaire et chimique."
+
 image : "images/products/blow/blow-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["Palettes soufflées"]

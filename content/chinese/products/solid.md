@@ -1,7 +1,7 @@
 ---
 title: "平面型托盘"
 description: "平整表面，质轻、平稳"
-image : "images/products/solid/main.jpg"
+list_image: "images/products/solid/main.jpg"
 bg_image: "images/print/feature-bg.jpg"
 product_categories: ["平板型托盘"]
 weight: 5

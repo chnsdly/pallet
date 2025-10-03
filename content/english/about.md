@@ -1,13 +1,13 @@
 ---
 title: "Shandong Baoheng Plastic Products Co., Ltd."
-description: ""
+description: "We specialize in the manufacturing of plastic products, serving the warehousing, logistics, food processing, and chemical industries. Our products are recognized for consistent quality and are exported worldwide."
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
 
 about:
   enable: true
-  image: "/images/company/company.jpg"
+  image: "/images/company/company3.jpg"
   title: "Professional Manufacturing, Quality Commitment"
   content: |
     <br/>**Mature Manufacturing System**

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pallet Soffiati on Baoheng | Pallet</title>
-    <link>https://www.baohengpallet.com/it/product_categories/pallet-soffiati/</link>
+    <link>http://localhost:1313/it/product_categories/pallet-soffiati/</link>
     <description>Recent content in Pallet Soffiati on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <atom:link href="https://www.baohengpallet.com/it/product_categories/pallet-soffiati/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it/product_categories/pallet-soffiati/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pallet soffiati</title>
-      <link>https://www.baohengpallet.com/it/products/blow/</link>
+      <title>Pallet Soffiati · Soluzioni Resistenti in Pallet di Plastica HDPE</title>
+      <link>http://localhost:1313/it/products/blow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/products/blow/</guid>
+      <guid>http://localhost:1313/it/products/blow/</guid>
       <description></description>
     </item>
   </channel>

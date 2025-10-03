@@ -1,7 +1,7 @@
 ---
-title: "吹塑工艺托盘"
-description: "一次吹塑成型，内有加强立柱，寿命长"
-image : "images/products/blow/blow-main.jpg"
+title: "吹塑托盘"
+description: "吹塑托盘采用HDPE材质一体成型，坚固耐用，适合重型与轻量应用。广泛用于仓储、物流与出口运输，满足食品、化工等多行业需求。"
+list_image : "images/products/blow/blow-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["吹塑工艺托盘"]
 weight: 6

@@ -1,13 +1,13 @@
 ---
 title: "Shandong Baoheng Prodotti Plastici Srl"
-description: ""
+description: "Siamo specializzati nella produzione di articoli in plastica per i settori dello stoccaggio, della logistica, della trasformazione alimentare e dell’industria chimica. I nostri prodotti, noti per l’affidabile qualità, vengono esportati in tutto il mondo."
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
 
 about:
   enable: true
-  image: "/images/company/company.jpg"
+  image: "/images/company/company3.jpg"
   title: "Produzione professionale, impegno per la qualità"
   content: |
     <br/>**Sistema produttivo maturo**

@@ -1,7 +1,7 @@
 ---
 title: "网格九脚型托盘"
 description: "四面可插，使用加强筋，颜色可定制"
-image : "images/products/open-nine/9leg-main.jpg"
+list_image : "images/products/open-nine/9leg-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["网格九脚型托盘"]
 weight: 1

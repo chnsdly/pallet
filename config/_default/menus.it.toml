@@ -15,7 +15,7 @@ url = "products/"
 weight = 3
 
 [[main]]
-name = "Casi di Successo"
+name = "Risorse"
 url = "blog/"
 weight = 4
 

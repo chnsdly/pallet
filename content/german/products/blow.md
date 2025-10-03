@@ -1,6 +1,7 @@
 ---
-title: "Blasformpaletten"
-description: "Einmaliges Blasformen mit innenliegenden Verstärkungssäulen für lange Lebensdauer"
+title: "Blasgeformte Paletten · Langlebige Lösungen aus HDPE-Kunststoffpaletten"
+description: "Blasgeformte Paletten bestehen aus einstückig geformtem HDPE, sind robust und langlebig und eignen sich für Schwerlast- sowie Leichtanwendungen. Sie werden häufig in Lagerhaltung, Logistik und Export eingesetzt und erfüllen die Anforderungen von Branchen wie Lebensmittel und Chemie."
+
 image : "images/products/blow/blow-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["Blasformpaletten"]

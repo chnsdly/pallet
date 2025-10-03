@@ -1,7 +1,7 @@
 ---
 title: "网格田字型托盘"
 description: "装载性能强，稳定性好"
-image : "images/products/open-grid/grid-main.jpg"
+list_image : "images/products/open-grid/grid-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["网格田字形托盘"]
 weight: 3

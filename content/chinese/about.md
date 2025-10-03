@@ -1,6 +1,6 @@
 ---
 title: "山东宝恒塑料制品有限公司"
-description: ""
+description: "我们专注于塑料产品的制造，产品覆盖仓储、物流、食品加工与化工行业，品质稳定，出口全球。 "
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -9,7 +9,7 @@ draft: false
 ################################## About #####################################
 about:
   enable: true
-  image: "/images/company/company.jpg"  # 建议使用生产线实景图
+  image: "/images/company/company3.jpg"  # 建议使用生产线实景图
   title: "专业制造，品质承诺"
   content: |
     <br/>**成熟制造体系**

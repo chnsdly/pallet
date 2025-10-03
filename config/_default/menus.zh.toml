@@ -7,7 +7,7 @@ url = ""
 weight = 1
 
 [[main]]
-name = "关于公司"
+name = "关于我们"
 url = "about/"
 weight = 2
 
@@ -22,7 +22,7 @@ weight = 3
 # weight = 3
 
 [[main]]
-name = "客户案例"
+name = "资源中心"
 url = "blog/"
 weight = 4
 
@@ -57,4 +57,19 @@ weight = 6
 [[footer]]
 name = "获取报价"
 url = "contact/"
+weight = 7
+
+[[footer]]
+name = "塑料周转筐"
+url = "https://www.baohengcrate.com"
+weight = 7
+
+[[footer]]
+name = "塑料周转箱"
+url = "https://www.baohengbox.com"
+weight = 7
+
+[[footer]]
+name = "宝恒垃圾桶"
+url = "https://www.baoheng.com"
 weight = 7

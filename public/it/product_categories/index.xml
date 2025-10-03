@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product_categories on Baoheng | Pallet</title>
-    <link>https://www.baohengpallet.com/it/product_categories/</link>
+    <link>http://localhost:1313/it/product_categories/</link>
     <description>Recent content in Product_categories on Baoheng | Pallet</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <atom:link href="https://www.baohengpallet.com/it/product_categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it/product_categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bancali Di Contenimento per Materiali Pericolosi</title>
-      <link>https://www.baohengpallet.com/it/product_categories/bancali-di-contenimento-per-materiali-pericolosi/</link>
+      <link>http://localhost:1313/it/product_categories/bancali-di-contenimento-per-materiali-pericolosi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/bancali-di-contenimento-per-materiali-pericolosi/</guid>
+      <guid>http://localhost:1313/it/product_categories/bancali-di-contenimento-per-materiali-pericolosi/</guid>
       <description></description>
     </item>
     <item>
       <title>Pallet a Cassa</title>
-      <link>https://www.baohengpallet.com/it/product_categories/pallet-a-cassa/</link>
+      <link>http://localhost:1313/it/product_categories/pallet-a-cassa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/pallet-a-cassa/</guid>
+      <guid>http://localhost:1313/it/product_categories/pallet-a-cassa/</guid>
       <description></description>
     </item>
     <item>
       <title>Pallet a Griglia Con 3 Longheroni</title>
-      <link>https://www.baohengpallet.com/it/product_categories/pallet-a-griglia-con-3-longheroni/</link>
+      <link>http://localhost:1313/it/product_categories/pallet-a-griglia-con-3-longheroni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/pallet-a-griglia-con-3-longheroni/</guid>
+      <guid>http://localhost:1313/it/product_categories/pallet-a-griglia-con-3-longheroni/</guid>
       <description></description>
     </item>
     <item>
       <title>Pallet a Griglia Con 9 Piedini Nestabile</title>
-      <link>https://www.baohengpallet.com/it/product_categories/pallet-a-griglia-con-9-piedini-nestabile/</link>
+      <link>http://localhost:1313/it/product_categories/pallet-a-griglia-con-9-piedini-nestabile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/pallet-a-griglia-con-9-piedini-nestabile/</guid>
+      <guid>http://localhost:1313/it/product_categories/pallet-a-griglia-con-9-piedini-nestabile/</guid>
       <description></description>
     </item>
     <item>
       <title>Pallet a Griglia Con Base Perimetrale</title>
-      <link>https://www.baohengpallet.com/it/product_categories/pallet-a-griglia-con-base-perimetrale/</link>
+      <link>http://localhost:1313/it/product_categories/pallet-a-griglia-con-base-perimetrale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/pallet-a-griglia-con-base-perimetrale/</guid>
+      <guid>http://localhost:1313/it/product_categories/pallet-a-griglia-con-base-perimetrale/</guid>
       <description></description>
     </item>
     <item>
       <title>Pallet a Griglia Doppia Faccia Reversibile</title>
-      <link>https://www.baohengpallet.com/it/product_categories/pallet-a-griglia-doppia-faccia-reversibile/</link>
+      <link>http://localhost:1313/it/product_categories/pallet-a-griglia-doppia-faccia-reversibile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/pallet-a-griglia-doppia-faccia-reversibile/</guid>
+      <guid>http://localhost:1313/it/product_categories/pallet-a-griglia-doppia-faccia-reversibile/</guid>
       <description></description>
     </item>
     <item>
       <title>Pallet a Piano Pieno</title>
-      <link>https://www.baohengpallet.com/it/product_categories/pallet-a-piano-pieno/</link>
+      <link>http://localhost:1313/it/product_categories/pallet-a-piano-pieno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/pallet-a-piano-pieno/</guid>
+      <guid>http://localhost:1313/it/product_categories/pallet-a-piano-pieno/</guid>
       <description></description>
     </item>
     <item>
       <title>Pallet Dedicato a Macchine Da Stampa</title>
-      <link>https://www.baohengpallet.com/it/product_categories/pallet-dedicato-a-macchine-da-stampa/</link>
+      <link>http://localhost:1313/it/product_categories/pallet-dedicato-a-macchine-da-stampa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/pallet-dedicato-a-macchine-da-stampa/</guid>
+      <guid>http://localhost:1313/it/product_categories/pallet-dedicato-a-macchine-da-stampa/</guid>
       <description></description>
     </item>
     <item>
       <title>Pallet Soffiati</title>
-      <link>https://www.baohengpallet.com/it/product_categories/pallet-soffiati/</link>
+      <link>http://localhost:1313/it/product_categories/pallet-soffiati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.baohengpallet.com/it/product_categories/pallet-soffiati/</guid>
+      <guid>http://localhost:1313/it/product_categories/pallet-soffiati/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,7 +1,7 @@
 ---
 title: "箱式托盘"
 description: "网格卡板箱和封闭卡板箱"
-image : "images/products/box/main.jpg"
+list_image : "images/products/box/main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["箱式托盘"]
 weight: 9

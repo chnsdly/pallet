@@ -1,6 +1,7 @@
 ---
-title: "Blow-Moulded Pallets"
-description: "One-step blow moulding with internal reinforcement columns for long service life"
+title: "Blow Molded Pallets · Durable HDPE Plastic Pallet Solutions"
+description: "Blow molded pallets are integrally formed from HDPE, offering strength and durability for both heavy-duty and lightweight applications. Widely used in warehousing, logistics, and export shipping, they meet the needs of industries such as food and chemicals."
+
 image : "images/products/blow/blow-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["Blow-Moulded Pallets"]

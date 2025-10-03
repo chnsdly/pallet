@@ -1,7 +1,7 @@
 ---
 title: "网格双面型托盘"
 description: "装载性能强，稳定性好"
-image : "images/products/open-2/re-main.jpg"
+list_image: "images/products/open-2/re-main.jpg"
 bg_image: "images/feature-bg.jpg"
 product_categories: ["网格双面型托盘"]
 weight: 4
